@@ -1,5 +1,8 @@
-### 学习永无止境
-### 少说多做
+我是一个热爱探索全栈开发的一个初级萌新，现阶段还是在读学生。
+
+学习永无止境
+
+少说多做
 <!--
 **zhou130258/zhou130258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
