@@ -1,5 +1,9 @@
 我是一个热爱探索全栈开发的一个初级萌新，现阶段还是在读学生。
 
+前端（CSS3、JavaScript、JQuery、Vue、TypeScript）一般水平
+
+后端（NodeJS、Express、PHP）了解水平
+
 学习永无止境
 
 少说多做
