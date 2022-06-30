@@ -1,8 +1,10 @@
 我是一个热爱探索全栈开发的一个初级萌新(菜鸟)，现阶段还是在读学生。
 
-前端（HTML、CSS、JavaScript、JQuery、Vue、TypeScript）一般水平
+前端（HTML5、CSS3、JavaScript(ES6)、JQuery、Vue、TypeScript）
 
-后端（NodeJS、Express、PHP）了解水平
+后端（NodeJS、Express、PHP）
+
+------
 
 学习永无止境
 
