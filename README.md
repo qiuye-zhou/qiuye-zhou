@@ -5,10 +5,6 @@
 后端（NodeJS、Express、PHP）
 
 ------
-
-学习永无止境
-
-少说多做
 <!--
 **zhou130258/zhou130258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
