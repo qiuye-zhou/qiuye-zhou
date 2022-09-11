@@ -2,7 +2,7 @@
 
 前端（HTML5、CSS3、JavaScript(ES6)、Vue、TypeScript、Less、JQuery）
 
-后端（NodeJS、Express、Mysql、~~PHP~~）
+后端（Express、NodeJS、Mysql、~~PHP~~）
 
 ------
 <!--
