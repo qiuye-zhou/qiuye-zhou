@@ -1,6 +1,6 @@
 我是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，现阶段还是在读学生。
 
-前端（HTML5、CSS3、JavaScript(ES6)、Vue、TypeScript、Less、JQuery）
+前端（HTML5、CSS3、JavaScript(ES6)、Vue、微信小程序、TypeScript、Less、JQuery）
 
 后端（Express、NodeJS、Mysql、~~PHP~~）
 
