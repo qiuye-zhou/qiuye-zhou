@@ -1,6 +1,6 @@
 import { readFile, rm, writeFile } from "fs/promises";
 import { motto } from "./config/config";
-import { injection_recent_star, injection_learncode, injection_SmallToys, open_source_project } from './auxiliary/injection'
+import { injection_recent_star, injection_learncode, injection_SmallToys, open_source_project, injection_footer } from './auxiliary/injection'
 import { getcon } from "./auxiliary/util";
 
 async function main() {
@@ -11,6 +11,7 @@ async function main() {
     newCon = (await injection_learncode(newCon)).toString()
     newCon = (await injection_recent_star(newCon)).toString()
     newCon = (await open_source_project(newCon)).toString()
+    newCon = injection_footer(newCon)
     newCon = newCon.replace(getcon('MOTTO'), motto)
 
     await rm('./README.md', { force: true })
