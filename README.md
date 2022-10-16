@@ -14,7 +14,7 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 </p>
 
-**Backend Developer (maybe)**
+**Backend Developer**
 
 <p>
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
@@ -35,31 +35,34 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
 </p>
 
-<!-- **开源在...** -->
+**开源在...**
 
-<!-- opensource_dashboard:active -->
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>📚 Forks</b></td><td><b>🛎 Issues</b></td><td><b>📬 Pull requests</b></td><td><b>💡 Last Commit</b></td></tr></thead><tbody></tbody></table>
 
-<!-- **写过的玩具..** -->
 
-<!-- opensource_toys -->
+**写过的玩具..**
 
-<!-- **最近写了...** -->
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/qiuye-zhou target=_blank><b>qiuye-zhou/qiuye-zhou</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-zhou?style=flat-square&labelColor=343b41"></td><td>2022/5/20</td><td>2022/10/16</td></tr></tbody></table>
 
-<!-- recent_posts_inject -->
+**以往学习过程写的一些简单东西...**
 
-<!-- **最近赞了...** -->
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/qiuye-codebase target=_blank><b>qiuye-zhou/qiuye-codebase</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-codebase?style=flat-square&labelColor=343b41"></td><td>2022/5/23</td><td>2022/9/18</td></tr><tr><td><a href=https://github.com/qiuye-zhou/HTML-CSS-JavaScript- target=_blank><b>qiuye-zhou/HTML-CSS-JavaScript-</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/HTML-CSS-JavaScript-?style=flat-square&labelColor=343b41"></td><td>2022/6/4</td><td>2022/7/8</td></tr></tbody></table>
 
-<!-- recent_star_inject -->
+**最近Star了...**
 
-<!-- **曾经看了...** -->
+<ul><li><a href=https://github.com/kangax/html-minifier>kangax/html-minifier</a><p>Javascript-based HTML compressor/minifier (with Node.js support)</p></li><li><a href=https://github.com/xinntao/Real-ESRGAN>xinntao/Real-ESRGAN</a><p>Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.</p></li><li><a href=https://github.com/cuixiaorui/mini-vue>cuixiaorui/mini-vue</a><p>实现最简 vue3 模型( Help you learn more efficiently vue3 source code )</p></li><li><a href=https://github.com/markdown-it/markdown-it>markdown-it/markdown-it</a><p>Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed</p></li><li><a href=https://github.com/nestjs/nest>nestjs/nest</a><p>A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀</p></li></ul>
 
-<!-- random_github_stars_inject -->
+**曾经看了...**
+
+<ul><li><a href=https://github.com/ChanceYu/front-end-rss>ChanceYu/front-end-rss</a><p>:orange_book: 根据 RSS 订阅源抓取最新前端技术文章，来源：Node Weekly、JavaScript Weekly、前端早读课、前端大全、前端之巅、前端之神、前端技术优选、程序员成长指北、淘系前端团队、张鑫旭博客、前端里、凹凸实验室</p></li><li><a href=https://github.com/Mrs4s/go-cqhttp>Mrs4s/go-cqhttp</a><p>cqhttp的golang实现，轻量、原生跨平台.</p></li><li><a href=https://github.com/Binaryify/NeteaseCloudMusicApi>Binaryify/NeteaseCloudMusicApi</a><p>网易云音乐 Node.js API service</p></li><li><a href=https://github.com/hinesboy/mavonEditor>hinesboy/mavonEditor</a><p>mavonEditor - A markdown editor based on Vue that supports a variety of personalized features</p></li><li><a href=https://github.com/qiuye-zhou/qiuye-zhou>qiuye-zhou/qiuye-zhou</a></li></ul>
 
 **你能找到我吗**
 
 <p><a href="https://github.com/qiuye-zhou" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 
+此项目参考于Innei大佬的：[Innei]([Innei/Innei (github.com)](https://github.com/Innei/Innei))
+
 ------------
 
-<!-- motto -->
+<p align=center><strong></strong></p>
 <!-- footer_inject -->
