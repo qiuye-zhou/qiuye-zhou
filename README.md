@@ -42,11 +42,11 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/qiuye-zhou target=_blank><b>qiuye-zhou/qiuye-zhou</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-zhou?style=flat-square&labelColor=343b41"></td><td>2022/5/20</td><td>2022/10/16</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/qiuye-zhou target=_blank><b>qiuye-zhou/qiuye-zhou</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-zhou?style=flat-square&labelColor=343b41"></td><td>5/20/2022</td><td>10/16/2022</td></tr></tbody></table>
 
 **以往学习过程写的一些简单东西...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/qiuye-codebase target=_blank><b>qiuye-zhou/qiuye-codebase</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-codebase?style=flat-square&labelColor=343b41"></td><td>2022/5/23</td><td>2022/9/18</td></tr><tr><td><a href=https://github.com/qiuye-zhou/HTML-CSS-JavaScript- target=_blank><b>qiuye-zhou/HTML-CSS-JavaScript-</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/HTML-CSS-JavaScript-?style=flat-square&labelColor=343b41"></td><td>2022/6/4</td><td>2022/7/8</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/qiuye-codebase target=_blank><b>qiuye-zhou/qiuye-codebase</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-codebase?style=flat-square&labelColor=343b41"></td><td>5/23/2022</td><td>9/18/2022</td></tr><tr><td><a href=https://github.com/qiuye-zhou/HTML-CSS-JavaScript- target=_blank><b>qiuye-zhou/HTML-CSS-JavaScript-</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/HTML-CSS-JavaScript-?style=flat-square&labelColor=343b41"></td><td>6/4/2022</td><td>7/8/2022</td></tr></tbody></table>
 
 **最近Star了...**
 
@@ -54,7 +54,7 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/bradtraversy/50projects50days>bradtraversy/50projects50days</a><p>50+ mini web projects using HTML, CSS & JS</p></li><li><a href=https://github.com/vuejs/vue>vuejs/vue</a><p>🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.</p></li><li><a href=https://github.com/qiuye-zhou/qiuye-codebase>qiuye-zhou/qiuye-codebase</a><p>qiuye的小仓库</p></li><li><a href=https://github.com/qiuye-zhou/HTML-CSS-JavaScript->qiuye-zhou/HTML-CSS-JavaScript-</a><p>练习小案例</p></li><li><a href=https://github.com/Binaryify/NeteaseCloudMusicApi>Binaryify/NeteaseCloudMusicApi</a><p>网易云音乐 Node.js API service</p></li></ul>
+<ul><li><a href=https://github.com/qiuye-zhou/qiuye-zhou.github.io>qiuye-zhou/qiuye-zhou.github.io</a><p>公开的blog，访问地址是zhou130258.github.io</p></li><li><a href=https://github.com/qiuye-zhou/HTML-CSS-JavaScript->qiuye-zhou/HTML-CSS-JavaScript-</a><p>练习小案例</p></li><li><a href=https://github.com/markedjs/marked>markedjs/marked</a><p>A markdown parser and compiler. Built for speed.</p></li><li><a href=https://github.com/Binaryify/NeteaseCloudMusicApi>Binaryify/NeteaseCloudMusicApi</a><p>网易云音乐 Node.js API service</p></li><li><a href=https://github.com/mrvautin/adminMongo>mrvautin/adminMongo</a><p>adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs.</p></li></ul>
 
 **你能找到我吗**
 
@@ -65,4 +65,4 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
 ------------
 
 <p align=center><strong></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2022/10/16 下午10:00<br>下一次刷新：2022/10/17 下午10:00</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/16/22, 10:28 PM<br>下一次刷新：10/17/22, 10:28 PM</p>
