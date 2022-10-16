@@ -4,8 +4,6 @@
 
 后端（Express、NestJS、NodeJS、Mysql、~~PHP~~）
 
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-
 ------
 <!--
 **zhou130258/zhou130258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
