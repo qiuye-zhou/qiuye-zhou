@@ -1,25 +1,23 @@
 {
-  "name": "innei",
+  "name": "qiuye-zhou",
   "private": true,
-  "description": "Innei's profile",
-  "main": "index.js",
+  "description": "qiuye-zhou profile",
+  "main": "main.js",
   "scripts": {
-    "dev": "ts-node-dev index.ts",
-    "build": "ts-node index.ts"
+    "build": "ts-node main.ts"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Innei/Innei.git"
+    "url": "git+https://github.com/qiuye-zhou/qiuye-zhou.git"
   },
   "keywords": [],
-  "author": "Innei",
+  "author": "qiuye-zhou",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Innei/Innei/issues"
+    "url": "https://github.com/qiuye-zhou/qiuye-zhou/issues"
   },
-  "homepage": "https://github.com/Innei/Innei#readme",
+  "homepage": "https://github.com/qiuye-zhou/qiuye-zhou#readme",
   "dependencies": {
-    "@mx-space/api-client": "0.10.6",
     "@types/html-minifier": "4.0.1",
     "axios": "0.22.0",
     "dayjs": "1.10.7",
@@ -30,8 +28,7 @@
     "typescript": "4.4.3"
   },
   "devDependencies": {
-    "@types/markdown-it": "12.2.3",
-    "@types/node": "^18.11.0",
-    "markdown-it": "12.3.0"
+    "@types/lodash": "^4.14.186",
+    "@types/node": "^18.11.0"
   }
 }

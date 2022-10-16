@@ -14,7 +14,7 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 </p>
 
-**Backend Developer (maybe)**
+**Backend Developer**
 
 <p>
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
@@ -35,29 +35,32 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
 </p>
 
-<!-- **开源在...** -->
+**开源在...**
 
-<!-- opensource_dashboard:active -->
+<!-- open_source_project -->
 
-<!-- **写过的玩具..** -->
 
-<!-- opensource_toys -->
+**写过的玩具..**
 
-<!-- **最近写了...** -->
+<!-- small_toys_inject -->
 
-<!-- recent_posts_inject -->
+**以往学习过程写的一些简单东西...**
 
-<!-- **最近赞了...** -->
+<!-- learn_code_inject -->
+
+**最近Star了...**
 
 <!-- recent_star_inject -->
 
-<!-- **曾经看了...** -->
+**曾经看了...**
 
-<!-- random_github_stars_inject -->
+<!-- random_stars_inject -->
 
 **你能找到我吗**
 
 <p><a href="https://github.com/qiuye-zhou" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+
+此项目参考于Innei大佬的：[Innei]([Innei/Innei (github.com)](https://github.com/Innei/Innei))
 
 ------------
 
