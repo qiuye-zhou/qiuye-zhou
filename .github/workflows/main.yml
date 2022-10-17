@@ -1,0 +1,30 @@
+name: README build
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 */24 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [16.x]
+
+    steps:
+      - uses: actions/checkout@v1
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+      - name: Build project
+        run: |
+          npm run build
+      - name: Push new README.md
+        uses: mikeal/publish-to-github-action@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
