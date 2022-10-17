@@ -56,7 +56,7 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/qiuye-zhou/qiuye-codebase>qiuye-zhou/qiuye-codebase</a><p>qiuye的小仓库</p></li><li><a href=https://github.com/bradtraversy/50projects50days>bradtraversy/50projects50days</a><p>50+ mini web projects using HTML, CSS & JS</p></li><li><a href=https://github.com/tusen-ai/naive-ui>tusen-ai/naive-ui</a><p>A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.</p></li><li><a href=https://github.com/ChanceYu/front-end-rss>ChanceYu/front-end-rss</a><p>:orange_book: 根据 RSS 订阅源抓取最新前端技术文章，来源：Node Weekly、JavaScript Weekly、前端早读课、前端大全、前端之巅、前端之神、前端技术优选、程序员成长指北、淘系前端团队、张鑫旭博客、前端里、凹凸实验室</p></li><li><a href=https://github.com/Mrs4s/go-cqhttp>Mrs4s/go-cqhttp</a><p>cqhttp的golang实现，轻量、原生跨平台.</p></li></ul>
+<ul><li><a href=https://github.com/Mrs4s/go-cqhttp>Mrs4s/go-cqhttp</a><p>cqhttp的golang实现，轻量、原生跨平台.</p></li><li><a href=https://github.com/Binaryify/NeteaseCloudMusicApi>Binaryify/NeteaseCloudMusicApi</a><p>网易云音乐 Node.js API service</p></li><li><a href=https://github.com/qiuye-zhou/HTML-CSS-JavaScript->qiuye-zhou/HTML-CSS-JavaScript-</a><p>练习小案例</p></li><li><a href=https://github.com/requarks/wiki>requarks/wiki</a><p>Wiki.js | A modern and powerful wiki app built on Node.js</p></li><li><a href=https://github.com/PanJiaChen/vue-element-admin>PanJiaChen/vue-element-admin</a><p>:tada: A magical vue admin https://panjiachen.github.io/vue-element-admin</p></li></ul>
 
 **你能找到我吗**
 
@@ -67,4 +67,4 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
 ------------
 
 <p align=center><strong></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/17/22, 6:01 PM<br>下一次刷新：10/18/22, 6:01 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/17/22, 6:06 PM<br>下一次刷新：10/18/22, 6:06 PM</p>
