@@ -40,4 +40,4 @@ jobs:
       - name: Push new README.md
         uses: mikeal/publish-to-github-action@main
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.QIUYE_TOKEN }}
