@@ -27,6 +27,8 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
 
 <p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="github actions"
+    src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 </p>
 
 **Environment**
@@ -42,11 +44,11 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/qiuye-zhou target=_blank><b>qiuye-zhou/qiuye-zhou</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-zhou?style=flat-square&labelColor=343b41"></td><td>5/20/2022</td><td>10/16/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/qiuye-zhou target=_blank><b>qiuye-zhou/qiuye-zhou</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-zhou?style=flat-square&labelColor=343b41"></td><td>2022/5/20</td><td>2022/10/16</td></tr></tbody></table>
 
 **以往学习过程写的一些简单东西...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/qiuye-codebase target=_blank><b>qiuye-zhou/qiuye-codebase</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-codebase?style=flat-square&labelColor=343b41"></td><td>5/23/2022</td><td>9/18/2022</td></tr><tr><td><a href=https://github.com/qiuye-zhou/HTML-CSS-JavaScript- target=_blank><b>qiuye-zhou/HTML-CSS-JavaScript-</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/HTML-CSS-JavaScript-?style=flat-square&labelColor=343b41"></td><td>6/4/2022</td><td>7/8/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/qiuye-codebase target=_blank><b>qiuye-zhou/qiuye-codebase</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-codebase?style=flat-square&labelColor=343b41"></td><td>2022/5/23</td><td>2022/9/18</td></tr><tr><td><a href=https://github.com/qiuye-zhou/HTML-CSS-JavaScript- target=_blank><b>qiuye-zhou/HTML-CSS-JavaScript-</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/HTML-CSS-JavaScript-?style=flat-square&labelColor=343b41"></td><td>2022/6/4</td><td>2022/7/8</td></tr></tbody></table>
 
 **最近Star了...**
 
@@ -54,7 +56,7 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/qiuye-zhou/qiuye-zhou.github.io>qiuye-zhou/qiuye-zhou.github.io</a><p>公开的blog，访问地址是zhou130258.github.io</p></li><li><a href=https://github.com/qiuye-zhou/HTML-CSS-JavaScript->qiuye-zhou/HTML-CSS-JavaScript-</a><p>练习小案例</p></li><li><a href=https://github.com/markedjs/marked>markedjs/marked</a><p>A markdown parser and compiler. Built for speed.</p></li><li><a href=https://github.com/Binaryify/NeteaseCloudMusicApi>Binaryify/NeteaseCloudMusicApi</a><p>网易云音乐 Node.js API service</p></li><li><a href=https://github.com/mrvautin/adminMongo>mrvautin/adminMongo</a><p>adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs.</p></li></ul>
+<ul><li><a href=https://github.com/qiuye-zhou/HTML-CSS-JavaScript->qiuye-zhou/HTML-CSS-JavaScript-</a><p>练习小案例</p></li><li><a href=https://github.com/qiuye-zhou/qiuye-zhou.github.io>qiuye-zhou/qiuye-zhou.github.io</a><p>公开的blog，访问地址是zhou130258.github.io</p></li><li><a href=https://github.com/ChanceYu/front-end-rss>ChanceYu/front-end-rss</a><p>:orange_book: 根据 RSS 订阅源抓取最新前端技术文章，来源：Node Weekly、JavaScript Weekly、前端早读课、前端大全、前端之巅、前端之神、前端技术优选、程序员成长指北、淘系前端团队、张鑫旭博客、前端里、凹凸实验室</p></li><li><a href=https://github.com/mrvautin/adminMongo>mrvautin/adminMongo</a><p>adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs.</p></li><li><a href=https://github.com/airuikun/front-core>airuikun/front-core</a><p>前端前沿技术实现原理+源码解析</p></li></ul>
 
 **你能找到我吗**
 
@@ -65,4 +67,4 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
 ------------
 
 <p align=center><strong></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/16/22, 10:28 PM<br>下一次刷新：10/17/22, 10:28 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2022/10/17 下午4:25<br>下一次刷新：2022/10/18 下午4:25</p>
