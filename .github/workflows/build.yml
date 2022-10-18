@@ -38,6 +38,7 @@ jobs:
       - name: Build Project
         run: |
           npm run build
+          sudo rm -rf node_modules
       - name: Push new README.md
         uses: mikeal/publish-to-github-action@master
         env:
