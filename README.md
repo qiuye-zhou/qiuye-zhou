@@ -11,6 +11,7 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
   <img alt="css3" src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=popout">
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Vue 3" src="https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 </p>
 
@@ -56,7 +57,7 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/hinesboy/mavonEditor>hinesboy/mavonEditor</a><p>mavonEditor - A markdown editor based on Vue that supports a variety of personalized features</p></li><li><a href=https://github.com/mrvautin/adminMongo>mrvautin/adminMongo</a><p>adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs.</p></li><li><a href=https://github.com/qiuye-zhou/HTML-CSS-JavaScript->qiuye-zhou/HTML-CSS-JavaScript-</a><p>练习小案例</p></li><li><a href=https://github.com/rxliuli/magia>rxliuli/magia</a><p>一个复刻的可爱的动画网站（魔法少女小圆），源项目是 https://magia.cyris.moe/</p></li><li><a href=https://github.com/qiuye-zhou/qiuye-zhou.github.io>qiuye-zhou/qiuye-zhou.github.io</a><p>公开的blog，访问地址是zhou130258.github.io</p></li></ul>
+<ul><li><a href=https://github.com/rxliuli/magia>rxliuli/magia</a><p>一个复刻的可爱的动画网站（魔法少女小圆），源项目是 https://magia.cyris.moe/</p></li><li><a href=https://github.com/vuejs/vue>vuejs/vue</a><p>🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.</p></li><li><a href=https://github.com/mrvautin/adminMongo>mrvautin/adminMongo</a><p>adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs.</p></li><li><a href=https://github.com/AykutSarac/jsoncrack.com>AykutSarac/jsoncrack.com</a><p>🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!</p></li><li><a href=https://github.com/markedjs/marked>markedjs/marked</a><p>A markdown parser and compiler. Built for speed.</p></li></ul>
 
 **你能找到我吗**
 
@@ -67,4 +68,4 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
 ------------
 
 <p align=center><strong></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/18/22, 12:49 PM<br>下一次刷新：10/19/22, 12:49 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/18/22, 12:56 PM<br>下一次刷新：10/19/22, 12:56 PM</p>
