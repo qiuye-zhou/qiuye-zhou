@@ -6,6 +6,7 @@ export const source = {
         random: false,
         address: [
             'qiuye-zhou/qiuye-zhou',
+            'qiuye-zhou/qiuye-robot',
         ]
     },
     learncode: {
