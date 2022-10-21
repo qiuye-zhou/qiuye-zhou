@@ -57,7 +57,7 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/cuixiaorui/mini-vue>cuixiaorui/mini-vue</a><p>实现最简 vue3 模型( Help you learn more efficiently vue3 source code )</p></li><li><a href=https://github.com/tusen-ai/naive-ui>tusen-ai/naive-ui</a><p>A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.</p></li><li><a href=https://github.com/airuikun/front-core>airuikun/front-core</a><p>前端前沿技术实现原理+源码解析</p></li><li><a href=https://github.com/nestjs/nest>nestjs/nest</a><p>A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀</p></li><li><a href=https://github.com/qiuye-zhou/qiuye-codebase>qiuye-zhou/qiuye-codebase</a><p>qiuye的小仓库</p></li></ul>
+<ul><li><a href=https://github.com/PanJiaChen/vue-element-admin>PanJiaChen/vue-element-admin</a><p>:tada: A magical vue admin https://panjiachen.github.io/vue-element-admin</p></li><li><a href=https://github.com/AykutSarac/jsoncrack.com>AykutSarac/jsoncrack.com</a><p>🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!</p></li><li><a href=https://github.com/markdown-it/markdown-it>markdown-it/markdown-it</a><p>Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed</p></li><li><a href=https://github.com/Mrs4s/go-cqhttp>Mrs4s/go-cqhttp</a><p>cqhttp的golang实现，轻量、原生跨平台.</p></li><li><a href=https://github.com/tusen-ai/naive-ui>tusen-ai/naive-ui</a><p>A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.</p></li></ul>
 
 **你能找到我吗**
 
@@ -68,4 +68,4 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
 ------------
 
 <p align=center><strong></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/20/22, 3:59 PM<br>下一次刷新：10/21/22, 3:59 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/21/22, 9:12 AM<br>下一次刷新：10/22/22, 9:12 AM</p>
