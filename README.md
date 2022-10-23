@@ -2,9 +2,11 @@
 
 qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，现阶段还是在读学生。
 
+他热爱开源，常活跃于 GitHub ，向往于成为自由独立开发者
+
 他具备以下技能：
 
-**Web Developer**
+**Web**
 
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -12,10 +14,11 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Vue 3" src="https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 </p>
 
-**Backend Developer**
+**Backend**
 
 <p>
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
@@ -45,7 +48,7 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/qiuye-zhou target=_blank><b>qiuye-zhou/qiuye-zhou</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-zhou?style=flat-square&labelColor=343b41"></td><td>5/20/2022</td><td>10/22/2022</td></tr><tr><td><a href=https://github.com/qiuye-zhou/qiuye-robot target=_blank><b>qiuye-zhou/qiuye-robot</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-robot?style=flat-square&labelColor=343b41"></td><td>10/19/2022</td><td>10/22/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/qiuye-zhou target=_blank><b>qiuye-zhou/qiuye-zhou</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-zhou?style=flat-square&labelColor=343b41"></td><td>5/20/2022</td><td>10/23/2022</td></tr><tr><td><a href=https://github.com/qiuye-zhou/qiuye-robot target=_blank><b>qiuye-zhou/qiuye-robot</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-robot?style=flat-square&labelColor=343b41"></td><td>10/19/2022</td><td>10/23/2022</td></tr></tbody></table>
 
 **以往学习过程写的一些简单东西...**
 
@@ -57,7 +60,7 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/ChanceYu/front-end-rss>ChanceYu/front-end-rss</a><p>:orange_book: 根据 RSS 订阅源抓取最新前端技术文章，来源：Node Weekly、JavaScript Weekly、前端早读课、前端大全、前端之巅、前端之神、前端技术优选、程序员成长指北、淘系前端团队、张鑫旭博客、前端里、凹凸实验室</p></li><li><a href=https://github.com/mrvautin/adminMongo>mrvautin/adminMongo</a><p>adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs.</p></li><li><a href=https://github.com/markedjs/marked>markedjs/marked</a><p>A markdown parser and compiler. Built for speed.</p></li><li><a href=https://github.com/vuejs/vue>vuejs/vue</a><p>🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.</p></li><li><a href=https://github.com/airuikun/front-core>airuikun/front-core</a><p>前端前沿技术实现原理+源码解析</p></li></ul>
+<ul><li><a href=https://github.com/AykutSarac/jsoncrack.com>AykutSarac/jsoncrack.com</a><p>🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!</p></li><li><a href=https://github.com/PanJiaChen/vue-element-admin>PanJiaChen/vue-element-admin</a><p>:tada: A magical vue admin https://panjiachen.github.io/vue-element-admin</p></li><li><a href=https://github.com/qiuye-zhou/qiuye-zhou.github.io>qiuye-zhou/qiuye-zhou.github.io</a><p>公开的blog，访问地址是qiuye-zhou.github.io</p></li><li><a href=https://github.com/qiuye-zhou/qiuye-zhou>qiuye-zhou/qiuye-zhou</a></li><li><a href=https://github.com/cuixiaorui/mini-vue>cuixiaorui/mini-vue</a><p>实现最简 vue3 模型( Help you learn more efficiently vue3 source code )</p></li></ul>
 
 **你能找到我吗**
 
@@ -68,4 +71,4 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
 ------------
 
 <p align=center><strong></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/23/22, 9:17 AM<br>下一次刷新：10/24/22, 9:17 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/23/22, 11:10 PM<br>下一次刷新：10/24/22, 11:10 PM</p>
