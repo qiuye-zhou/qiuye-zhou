@@ -2,9 +2,11 @@
 
 qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，现阶段还是在读学生。
 
+他热爱开源，常活跃于 GitHub ，向往于成为自由独立开发者
+
 他具备以下技能：
 
-**Web Developer**
+**Web**
 
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -12,10 +14,11 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Vue 3" src="https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 </p>
 
-**Backend Developer**
+**Backend**
 
 <p>
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
