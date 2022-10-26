@@ -41,8 +41,6 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
 </p>
 
-<div align="center"> <img src="[https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai](https://metrics.lecoq.io/qiuye-zhou?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.skipped=qiuye-zhou.github.io&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai)"> </div>
-
 **开源在...**
 
 <!-- open_source_project -->
@@ -71,8 +69,6 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
 此项目参考于Innei大佬的：[Innei/Innei (github.com)](https://github.com/Innei/Innei)
 
 ------------
-
+ <div align="center"> <img src="https://metrics.lecoq.io/qiuye-zhou?template=classic&base.header=0&base.activity=0&base.community=0&base.metadata=0&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.skipped=qiuye-zhou.github.io&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai"> </div>
 <!-- motto -->
 <!-- footer_inject -->
-
-  <div align="center"> <img src="https://metrics.lecoq.io/qiuye-zhou?template=classic&base.header=0&base.activity=0&base.community=0&base.metadata=0&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.skipped=qiuye-zhou.github.io&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai"> </div>
