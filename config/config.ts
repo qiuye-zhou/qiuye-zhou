@@ -14,7 +14,8 @@ export const source = {
         random: false,
         address: [
             'qiuye-zhou/qiuye-codebase',
-            'qiuye-zhou/HTML-CSS-JavaScript-'
+            'qiuye-zhou/HTML-CSS-JavaScript-',
+            'qiuye-zhou/design-mode-demo',
         ]
     }
 }
