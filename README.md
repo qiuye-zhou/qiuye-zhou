@@ -48,7 +48,7 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/qiuye-zhou target=_blank><b>qiuye-zhou/qiuye-zhou</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-zhou?style=flat-square&labelColor=343b41"></td><td>5/20/2022</td><td>10/29/2022</td></tr><tr><td><a href=https://github.com/qiuye-zhou/qiuye-robot target=_blank><b>qiuye-zhou/qiuye-robot</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-robot?style=flat-square&labelColor=343b41"></td><td>10/19/2022</td><td>10/29/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/qiuye-zhou target=_blank><b>qiuye-zhou/qiuye-zhou</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-zhou?style=flat-square&labelColor=343b41"></td><td>5/20/2022</td><td>10/30/2022</td></tr><tr><td><a href=https://github.com/qiuye-zhou/qiuye-robot target=_blank><b>qiuye-zhou/qiuye-robot</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-robot?style=flat-square&labelColor=343b41"></td><td>10/19/2022</td><td>10/30/2022</td></tr></tbody></table>
 
 **以往学习过程写的一些简单东西...**
 
@@ -60,7 +60,7 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/ChanceYu/front-end-rss>ChanceYu/front-end-rss</a><p>:orange_book: 根据 RSS 订阅源抓取最新前端技术文章，来源：Node Weekly、JavaScript Weekly、前端早读课、前端大全、前端之巅、前端之神、前端技术优选、程序员成长指北、淘系前端团队、张鑫旭博客、前端里、凹凸实验室</p></li><li><a href=https://github.com/qiuye-zhou/design-mode-demo>qiuye-zhou/design-mode-demo</a><p>学习设计模式过程中写的小demo</p></li><li><a href=https://github.com/Binaryify/NeteaseCloudMusicApi>Binaryify/NeteaseCloudMusicApi</a><p>网易云音乐 Node.js API service</p></li><li><a href=https://github.com/bradtraversy/50projects50days>bradtraversy/50projects50days</a><p>50+ mini web projects using HTML, CSS & JS</p></li><li><a href=https://github.com/rollup/rollup>rollup/rollup</a><p>Next-generation ES module bundler</p></li></ul>
+<ul><li><a href=https://github.com/tusen-ai/naive-ui>tusen-ai/naive-ui</a><p>A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.</p></li><li><a href=https://github.com/expressjs/multer>expressjs/multer</a><p>Node.js middleware for handling `multipart/form-data`.</p></li><li><a href=https://github.com/mrvautin/adminMongo>mrvautin/adminMongo</a><p>adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs.</p></li><li><a href=https://github.com/requarks/wiki>requarks/wiki</a><p>Wiki.js | A modern and powerful wiki app built on Node.js</p></li><li><a href=https://github.com/xinntao/Real-ESRGAN>xinntao/Real-ESRGAN</a><p>Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.</p></li></ul>
 
 **你能找到我吗**
 
@@ -71,4 +71,4 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
 ------------
  <div align="center"> <img src="https://metrics.lecoq.io/qiuye-zhou?template=classic&base.header=0&base.activity=0&base.community=0&base.metadata=0&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.skipped=qiuye-zhou.github.io&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai"> </div>
 <p align=center><strong></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/30/22, 9:16 AM<br>下一次刷新：10/31/22, 9:16 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/31/22, 9:16 AM<br>下一次刷新：11/1/22, 9:16 AM</p>
