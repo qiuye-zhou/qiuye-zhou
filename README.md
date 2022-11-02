@@ -52,7 +52,7 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
 
 **以往学习过程写的一些简单东西...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/qiuye-codebase target=_blank><b>qiuye-zhou/qiuye-codebase</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-codebase?style=flat-square&labelColor=343b41"></td><td>5/23/2022</td><td>9/18/2022</td></tr><tr><td><a href=https://github.com/qiuye-zhou/HTML-CSS-JavaScript- target=_blank><b>qiuye-zhou/HTML-CSS-JavaScript-</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/HTML-CSS-JavaScript-?style=flat-square&labelColor=343b41"></td><td>6/4/2022</td><td>7/8/2022</td></tr><tr><td><a href=https://github.com/qiuye-zhou/design-mode-demo target=_blank><b>qiuye-zhou/design-mode-demo</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/design-mode-demo?style=flat-square&labelColor=343b41"></td><td>10/25/2022</td><td>10/27/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/qiuye-codebase target=_blank><b>qiuye-zhou/qiuye-codebase</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-codebase?style=flat-square&labelColor=343b41"></td><td>5/23/2022</td><td>9/18/2022</td></tr><tr><td><a href=https://github.com/qiuye-zhou/HTML-CSS-JavaScript- target=_blank><b>qiuye-zhou/HTML-CSS-JavaScript-</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/HTML-CSS-JavaScript-?style=flat-square&labelColor=343b41"></td><td>6/4/2022</td><td>7/8/2022</td></tr><tr><td><a href=https://github.com/qiuye-zhou/design-mode-demo target=_blank><b>qiuye-zhou/design-mode-demo</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/design-mode-demo?style=flat-square&labelColor=343b41"></td><td>10/25/2022</td><td>11/1/2022</td></tr></tbody></table>
 
 **最近Star了...**
 
@@ -60,7 +60,7 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/hinesboy/mavonEditor>hinesboy/mavonEditor</a><p>mavonEditor - A markdown editor based on Vue that supports a variety of personalized features</p></li><li><a href=https://github.com/xinntao/Real-ESRGAN>xinntao/Real-ESRGAN</a><p>Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.</p></li><li><a href=https://github.com/markdown-it/markdown-it>markdown-it/markdown-it</a><p>Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed</p></li><li><a href=https://github.com/airuikun/front-core>airuikun/front-core</a><p>前端前沿技术实现原理+源码解析</p></li><li><a href=https://github.com/vercel/turbo>vercel/turbo</a><p>Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.</p></li></ul>
+<ul><li><a href=https://github.com/nestjs/nest>nestjs/nest</a><p>A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀</p></li><li><a href=https://github.com/mrvautin/adminMongo>mrvautin/adminMongo</a><p>adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs.</p></li><li><a href=https://github.com/qiuye-zhou/HTML-CSS-JavaScript->qiuye-zhou/HTML-CSS-JavaScript-</a><p>练习小案例</p></li><li><a href=https://github.com/takayama-lily/oicq>takayama-lily/oicq</a><p>Tencent QQ Bot Library for Node.js</p></li><li><a href=https://github.com/qiuye-zhou/design-mode-demo>qiuye-zhou/design-mode-demo</a><p>学习设计模式过程中写的小demo</p></li></ul>
 
 **你能找到我吗**
 
@@ -71,4 +71,4 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
 ------------
 
 <p align=center><strong>如果你热爱生活就不要浪费时间，因为时间组成了生活。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/1/22, 5:25 PM<br>下一次刷新：11/2/22, 5:25 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/2/22, 9:14 AM<br>下一次刷新：11/3/22, 9:14 AM</p>
