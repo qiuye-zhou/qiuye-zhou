@@ -2,7 +2,7 @@ export const source = {
     OpenSource: [
     ],
     SmallToys: {
-        limit: 3,
+        limit: 5,
         random: false,
         address: [
             'qiuye-zhou/qiuye-zhou',
@@ -10,7 +10,7 @@ export const source = {
         ]
     },
     learncode: {
-        limit: 3,
+        limit: 5,
         random: false,
         address: [
             'qiuye-zhou/qiuye-codebase',
