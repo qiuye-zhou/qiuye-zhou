@@ -16,6 +16,7 @@ export const source = {
             'qiuye-zhou/qiuye-codebase',
             'qiuye-zhou/HTML-CSS-JavaScript-',
             'qiuye-zhou/design-mode-demo',
+            'qiuye-zhou/qiuye-Handwriting'
         ]
     }
 }
