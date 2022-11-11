@@ -57,11 +57,11 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
 
 **最近Star了...**
 
-<ul><li><a href=https://github.com/AkaraChen/nashi>AkaraChen/nashi</a><p>🍐 The modern jQuery alternative</p></li><li><a href=https://github.com/type-challenges/type-challenges>type-challenges/type-challenges</a><p>Collection of TypeScript type challenges with online judge</p></li><li><a href=https://github.com/webfansplz/vuejs-challenges>webfansplz/vuejs-challenges</a><p>Collection of Vue.js challenges</p></li><li><a href=https://github.com/Sunny-117/js-challenges>Sunny-117/js-challenges</a><p>集锦大厂面试常考的 前端手写题和leetcode算法题</p></li><li><a href=https://github.com/lodash/lodash>lodash/lodash</a><p>A modern JavaScript utility library delivering modularity, performance, & extras.</p></li></ul>
+<ul><li><a href=https://github.com/pingan8787/Leo-JavaScript>pingan8787/Leo-JavaScript</a><p>欢迎关注公众号“前端自习课”，本仓库包含丰富的前端学习资料，包括 JavaScript、前端框架、HTTP、GraphQL、TS、Vue、React、Webpack等，还有很多我的原创文章，喜欢的朋友欢迎stat。:rocket:持续更新中...</p></li><li><a href=https://github.com/AkaraChen/nashi>AkaraChen/nashi</a><p>🍐 The modern jQuery alternative</p></li><li><a href=https://github.com/type-challenges/type-challenges>type-challenges/type-challenges</a><p>Collection of TypeScript type challenges with online judge</p></li><li><a href=https://github.com/webfansplz/vuejs-challenges>webfansplz/vuejs-challenges</a><p>Collection of Vue.js challenges</p></li><li><a href=https://github.com/Sunny-117/js-challenges>Sunny-117/js-challenges</a><p>集锦大厂面试常考的 前端手写题和leetcode算法题</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/takayama-lily/oicq>takayama-lily/oicq</a><p>Tencent QQ Bot Library for Node.js</p></li><li><a href=https://github.com/vitejs/vite>vitejs/vite</a><p>Next generation frontend tooling. It's fast!</p></li><li><a href=https://github.com/cuixiaorui/mini-vue>cuixiaorui/mini-vue</a><p>实现最简 vue3 模型( Help you learn more efficiently vue3 source code )</p></li><li><a href=https://github.com/vercel/turbo>vercel/turbo</a><p>Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.</p></li><li><a href=https://github.com/AykutSarac/jsoncrack.com>AykutSarac/jsoncrack.com</a><p>🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!</p></li></ul>
+<ul><li><a href=https://github.com/Mrs4s/go-cqhttp>Mrs4s/go-cqhttp</a><p>cqhttp的golang实现，轻量、原生跨平台.</p></li><li><a href=https://github.com/qiuye-zhou/qiuye-Handwriting>qiuye-zhou/qiuye-Handwriting</a><p>手写实现一些经典的代码、内置函数、常用的工具函数</p></li><li><a href=https://github.com/cuixiaorui/mini-vue>cuixiaorui/mini-vue</a><p>实现最简 vue3 模型( Help you learn more efficiently vue3 source code )</p></li><li><a href=https://github.com/vitejs/vite>vitejs/vite</a><p>Next generation frontend tooling. It's fast!</p></li><li><a href=https://github.com/lodash/lodash>lodash/lodash</a><p>A modern JavaScript utility library delivering modularity, performance, & extras.</p></li></ul>
 
 **你能找到我吗**
 
@@ -72,4 +72,4 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
 ------------
 
 <p align=center><strong>如果你热爱生活就不要浪费时间，因为时间组成了生活。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/10/22, 8:31 PM<br>下一次刷新：11/11/22, 8:31 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/11/22, 9:08 AM<br>下一次刷新：11/12/22, 9:08 AM</p>
