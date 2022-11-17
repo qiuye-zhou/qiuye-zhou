@@ -16,6 +16,8 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
   <img alt="Vue 3" src="https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="TailwindCSS"
+    src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 </p>
 
@@ -61,7 +63,7 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/type-challenges/type-challenges>type-challenges/type-challenges</a><p>Collection of TypeScript type challenges with online judge</p></li><li><a href=https://github.com/vitest-dev/vitest>vitest-dev/vitest</a><p>A Vite-native test framework. It's fast!</p></li><li><a href=https://github.com/rollup/rollup>rollup/rollup</a><p>Next-generation ES module bundler</p></li><li><a href=https://github.com/vitejs/vite>vitejs/vite</a><p>Next generation frontend tooling. It's fast!</p></li><li><a href=https://github.com/jprichardson/node-fs-extra>jprichardson/node-fs-extra</a><p>Node.js: extra methods for the fs object like copy(), remove(), mkdirs()</p></li></ul>
+<ul><li><a href=https://github.com/jprichardson/node-fs-extra>jprichardson/node-fs-extra</a><p>Node.js: extra methods for the fs object like copy(), remove(), mkdirs()</p></li><li><a href=https://github.com/qiuye-zhou/qiuye-Handwriting>qiuye-zhou/qiuye-Handwriting</a><p>手写实现一些经典的代码、内置函数、常用的工具函数</p></li><li><a href=https://github.com/kangax/html-minifier>kangax/html-minifier</a><p>Javascript-based HTML compressor/minifier (with Node.js support)</p></li><li><a href=https://github.com/vercel/turbo>vercel/turbo</a><p>Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.</p></li><li><a href=https://github.com/type-challenges/type-challenges>type-challenges/type-challenges</a><p>Collection of TypeScript type challenges with online judge</p></li></ul>
 
 **你能找到我吗**
 
@@ -72,4 +74,4 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
 ------------
 
 <p align=center><strong>如果你热爱生活就不要浪费时间，因为时间组成了生活。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/17/22, 10:20 PM<br>下一次刷新：11/18/22, 10:20 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/17/22, 10:50 PM<br>下一次刷新：11/18/22, 10:50 PM</p>
