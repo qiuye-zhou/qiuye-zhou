@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/qiuye-zhou/qiuye-zhou#readme",
   "dependencies": {
-    "@types/html-minifier": "4.0.1",
+    "@types/html-minifier": "4.0.2",
     "axios": "0.22.0",
     "dayjs": "1.10.7",
     "html-minifier": "4.0.0",
