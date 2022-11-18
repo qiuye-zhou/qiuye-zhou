@@ -63,7 +63,7 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/jprichardson/node-fs-extra>jprichardson/node-fs-extra</a><p>Node.js: extra methods for the fs object like copy(), remove(), mkdirs()</p></li><li><a href=https://github.com/qiuye-zhou/qiuye-Handwriting>qiuye-zhou/qiuye-Handwriting</a><p>手写实现一些经典的代码、内置函数、常用的工具函数</p></li><li><a href=https://github.com/kangax/html-minifier>kangax/html-minifier</a><p>Javascript-based HTML compressor/minifier (with Node.js support)</p></li><li><a href=https://github.com/vercel/turbo>vercel/turbo</a><p>Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.</p></li><li><a href=https://github.com/type-challenges/type-challenges>type-challenges/type-challenges</a><p>Collection of TypeScript type challenges with online judge</p></li></ul>
+<ul><li><a href=https://github.com/vitest-dev/vitest>vitest-dev/vitest</a><p>A Vite-native test framework. It's fast!</p></li><li><a href=https://github.com/lgwebdream/FE-Interview>lgwebdream/FE-Interview</a><p>🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器</p></li><li><a href=https://github.com/webfansplz/vuejs-challenges>webfansplz/vuejs-challenges</a><p>Collection of Vue.js challenges</p></li><li><a href=https://github.com/qiuye-zhou/design-mode-demo>qiuye-zhou/design-mode-demo</a><p>学习设计模式过程中写的小demo</p></li><li><a href=https://github.com/markdown-it/markdown-it>markdown-it/markdown-it</a><p>Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed</p></li></ul>
 
 **你能找到我吗**
 
@@ -74,4 +74,4 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
 ------------
 
 <p align=center><strong>如果你热爱生活就不要浪费时间，因为时间组成了生活。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/17/22, 10:50 PM<br>下一次刷新：11/18/22, 10:50 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/18/22, 9:05 AM<br>下一次刷新：11/19/22, 9:05 AM</p>
