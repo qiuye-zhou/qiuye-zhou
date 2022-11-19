@@ -51,7 +51,7 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/qiuye-zhou target=_blank><b>qiuye-zhou/qiuye-zhou</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-zhou?style=flat-square&labelColor=343b41"></td><td>5/20/2022</td><td>11/17/2022</td></tr><tr><td><a href=https://github.com/qiuye-zhou/qiuye-robot target=_blank><b>qiuye-zhou/qiuye-robot</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-robot?style=flat-square&labelColor=343b41"></td><td>10/19/2022</td><td>11/17/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/qiuye-zhou target=_blank><b>qiuye-zhou/qiuye-zhou</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-zhou?style=flat-square&labelColor=343b41"></td><td>5/20/2022</td><td>11/18/2022</td></tr><tr><td><a href=https://github.com/qiuye-zhou/qiuye-robot target=_blank><b>qiuye-zhou/qiuye-robot</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-robot?style=flat-square&labelColor=343b41"></td><td>10/19/2022</td><td>11/17/2022</td></tr></tbody></table>
 
 **以往学习过程写的一些简单东西...**
 
@@ -59,11 +59,11 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
 
 **最近Star了...**
 
-<ul><li><a href=https://github.com/expressjs/cors>expressjs/cors</a><p>Node.js CORS middleware</p></li><li><a href=https://github.com/antvis/G6>antvis/G6</a><p>♾ A Graph Visualization Framework in JavaScript</p></li><li><a href=https://github.com/SBoudrias/Inquirer.js>SBoudrias/Inquirer.js</a><p>A collection of common interactive command line user interfaces.</p></li><li><a href=https://github.com/tj/commander.js>tj/commander.js</a><p>node.js command-line interfaces made easy</p></li><li><a href=https://github.com/soldair/node-qrcode>soldair/node-qrcode</a><p>qr code generator</p></li></ul>
+<ul><li><a href=https://github.com/itorr/china-ex>itorr/china-ex</a><p>🇨🇳「中国制霸生成器」中国三十四省份制霸标记工具</p></li><li><a href=https://github.com/expressjs/cors>expressjs/cors</a><p>Node.js CORS middleware</p></li><li><a href=https://github.com/antvis/G6>antvis/G6</a><p>♾ A Graph Visualization Framework in JavaScript</p></li><li><a href=https://github.com/SBoudrias/Inquirer.js>SBoudrias/Inquirer.js</a><p>A collection of common interactive command line user interfaces.</p></li><li><a href=https://github.com/tj/commander.js>tj/commander.js</a><p>node.js command-line interfaces made easy</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/vitest-dev/vitest>vitest-dev/vitest</a><p>A Vite-native test framework. It's fast!</p></li><li><a href=https://github.com/lgwebdream/FE-Interview>lgwebdream/FE-Interview</a><p>🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器</p></li><li><a href=https://github.com/webfansplz/vuejs-challenges>webfansplz/vuejs-challenges</a><p>Collection of Vue.js challenges</p></li><li><a href=https://github.com/qiuye-zhou/design-mode-demo>qiuye-zhou/design-mode-demo</a><p>学习设计模式过程中写的小demo</p></li><li><a href=https://github.com/markdown-it/markdown-it>markdown-it/markdown-it</a><p>Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed</p></li></ul>
+<ul><li><a href=https://github.com/Sunny-117/js-challenges>Sunny-117/js-challenges</a><p>集锦前端JavaScript编程题，Not just for interviews</p></li><li><a href=https://github.com/webfansplz/vuejs-challenges>webfansplz/vuejs-challenges</a><p>Collection of Vue.js challenges</p></li><li><a href=https://github.com/qiuye-zhou/qiuye-robot>qiuye-zhou/qiuye-robot</a><p>My QQ robot</p></li><li><a href=https://github.com/markdown-it/markdown-it>markdown-it/markdown-it</a><p>Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed</p></li><li><a href=https://github.com/rollup/rollup>rollup/rollup</a><p>Next-generation ES module bundler</p></li></ul>
 
 **你能找到我吗**
 
@@ -74,4 +74,4 @@ qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，
 ------------
 
 <p align=center><strong>如果你热爱生活就不要浪费时间，因为时间组成了生活。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/18/22, 9:05 AM<br>下一次刷新：11/19/22, 9:05 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/19/22, 9:04 AM<br>下一次刷新：11/20/22, 9:04 AM</p>
