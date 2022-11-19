@@ -1,10 +1,8 @@
 # qiuye-zhou 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=qiuye-zhou.readme) [![wakatime](https://wakatime.com/badge/user/9213dc96-df0d-4e66-b0bb-50f9e04e988c.svg)](https://wakatime.com/@9213dc96-df0d-4e66-b0bb-50f9e04e988c)
 
-qiuye-zhou是一个热爱探索前(后)端开发的一个初级萌新(菜鸟)，现阶段还是在读学生。
+<h3>I am a student from China, Now I mainly study the front end.</h3>
 
-他热爱开源，常活跃于 GitHub ，向往于成为自由独立开发者
-
-他具备以下技能：
+我具备以下技能：
 
 **Web**
 
