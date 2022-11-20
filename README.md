@@ -1,5 +1,7 @@
 # qiuye-zhou 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=qiuye-zhou.readme) [![wakatime](https://wakatime.com/badge/user/9213dc96-df0d-4e66-b0bb-50f9e04e988c.svg)](https://wakatime.com/@9213dc96-df0d-4e66-b0bb-50f9e04e988c)
 
+<img align="right" width="300" src="https://github.com/qiuye-zhou/qiuye-zhou/blob/master/public/bg-skd.png"/>
+
 <h3>I am a student from China, Now I mainly study the front end.</h3>
 
 我具备以下技能：
@@ -61,7 +63,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/type-challenges/type-challenges>type-challenges/type-challenges</a><p>Collection of TypeScript type challenges with online judge</p></li><li><a href=https://github.com/expressjs/multer>expressjs/multer</a><p>Node.js middleware for handling `multipart/form-data`.</p></li><li><a href=https://github.com/febobo/web-interview>febobo/web-interview</a><p>语音打卡社群维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题</p></li><li><a href=https://github.com/pingan8787/Leo-JavaScript>pingan8787/Leo-JavaScript</a><p>欢迎关注公众号“前端自习课”，本仓库包含丰富的前端学习资料，包括 JavaScript、前端框架、HTTP、GraphQL、TS、Vue、React、Webpack等，还有很多我的原创文章，喜欢的朋友欢迎stat。:rocket:持续更新中...</p></li><li><a href=https://github.com/jprichardson/node-fs-extra>jprichardson/node-fs-extra</a><p>Node.js: extra methods for the fs object like copy(), remove(), mkdirs()</p></li></ul>
+<ul><li><a href=https://github.com/jprichardson/node-fs-extra>jprichardson/node-fs-extra</a><p>Node.js: extra methods for the fs object like copy(), remove(), mkdirs()</p></li><li><a href=https://github.com/rust-lang/rust>rust-lang/rust</a><p>Empowering everyone to build reliable and efficient software.</p></li><li><a href=https://github.com/kangax/html-minifier>kangax/html-minifier</a><p>Javascript-based HTML compressor/minifier (with Node.js support)</p></li><li><a href=https://github.com/Sunny-117/js-challenges>Sunny-117/js-challenges</a><p>集锦前端JavaScript编程题，Not just for interviews</p></li><li><a href=https://github.com/qiuye-zhou/qiuye-Handwriting>qiuye-zhou/qiuye-Handwriting</a><p>手写实现一些经典的代码、内置函数、常用的工具函数</p></li></ul>
 
 **你能找到我吗**
 
@@ -72,4 +74,4 @@
 ------------
 
 <p align=center><strong>如果你热爱生活就不要浪费时间，因为时间组成了生活。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/20/22, 6:54 PM<br>下一次刷新：11/21/22, 6:54 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/20/22, 6:56 PM<br>下一次刷新：11/21/22, 6:56 PM</p>
