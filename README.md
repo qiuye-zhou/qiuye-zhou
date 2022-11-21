@@ -51,7 +51,7 @@
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/qiuye-zhou target=_blank><b>qiuye-zhou/qiuye-zhou</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-zhou?style=flat-square&labelColor=343b41"></td><td>5/20/2022</td><td>11/20/2022</td></tr><tr><td><a href=https://github.com/qiuye-zhou/qiuye-robot target=_blank><b>qiuye-zhou/qiuye-robot</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-robot?style=flat-square&labelColor=343b41"></td><td>10/19/2022</td><td>11/17/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/qiuye-zhou target=_blank><b>qiuye-zhou/qiuye-zhou</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-zhou?style=flat-square&labelColor=343b41"></td><td>5/20/2022</td><td>11/21/2022</td></tr><tr><td><a href=https://github.com/qiuye-zhou/qiuye-robot target=_blank><b>qiuye-zhou/qiuye-robot</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-robot?style=flat-square&labelColor=343b41"></td><td>10/19/2022</td><td>11/17/2022</td></tr></tbody></table>
 
 **以往学习过程写的一些简单东西...**
 
@@ -63,7 +63,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/rust-lang/rust>rust-lang/rust</a><p>Empowering everyone to build reliable and efficient software.</p></li><li><a href=https://github.com/xinntao/Real-ESRGAN>xinntao/Real-ESRGAN</a><p>Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.</p></li><li><a href=https://github.com/takayama-lily/oicq>takayama-lily/oicq</a><p>Tencent QQ Bot Library for Node.js</p></li><li><a href=https://github.com/cuixiaorui/mini-vue>cuixiaorui/mini-vue</a><p>实现最简 vue3 模型( Help you learn more efficiently vue3 source code )</p></li><li><a href=https://github.com/lodash/lodash>lodash/lodash</a><p>A modern JavaScript utility library delivering modularity, performance, & extras.</p></li></ul>
+<ul><li><a href=https://github.com/cuixiaorui/mini-vue>cuixiaorui/mini-vue</a><p>实现最简 vue3 模型( Help you learn more efficiently vue3 source code )</p></li><li><a href=https://github.com/kangax/html-minifier>kangax/html-minifier</a><p>Javascript-based HTML compressor/minifier (with Node.js support)</p></li><li><a href=https://github.com/rust-lang/rust>rust-lang/rust</a><p>Empowering everyone to build reliable and efficient software.</p></li><li><a href=https://github.com/type-challenges/type-challenges>type-challenges/type-challenges</a><p>Collection of TypeScript type challenges with online judge</p></li><li><a href=https://github.com/qiuye-zhou/design-mode-demo>qiuye-zhou/design-mode-demo</a><p>学习设计模式过程中写的小demo</p></li></ul>
 
 **你能找到我吗**
 
@@ -74,4 +74,4 @@
 ------------
 
 <p align=center><strong>如果你热爱生活就不要浪费时间，因为时间组成了生活。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/21/22, 9:03 AM<br>下一次刷新：11/22/22, 9:03 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/21/22, 9:48 AM<br>下一次刷新：11/22/22, 9:48 AM</p>
