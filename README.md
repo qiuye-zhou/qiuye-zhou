@@ -16,11 +16,7 @@
 
 **DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,githubactions)](https://skillicons.dev)
-
-**Environment**
-
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,git,githubactions)](https://skillicons.dev)
 
 **开源在...**
 
@@ -41,7 +37,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/lowlighter/metrics>lowlighter/metrics</a><p>📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!</p></li><li><a href=https://github.com/lgwebdream/FE-Interview>lgwebdream/FE-Interview</a><p>🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器</p></li><li><a href=https://github.com/Sunny-117/js-challenges>Sunny-117/js-challenges</a><p>集锦前端JavaScript编程题，Not just for interviews</p></li><li><a href=https://github.com/expressjs/cors>expressjs/cors</a><p>Node.js CORS middleware</p></li><li><a href=https://github.com/SBoudrias/Inquirer.js>SBoudrias/Inquirer.js</a><p>A collection of common interactive command line user interfaces.</p></li></ul>
+<ul><li><a href=https://github.com/lgwebdream/FE-Interview>lgwebdream/FE-Interview</a><p>🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器</p></li><li><a href=https://github.com/vitest-dev/vitest>vitest-dev/vitest</a><p>A Vite-native test framework. It's fast!</p></li><li><a href=https://github.com/jprichardson/node-fs-extra>jprichardson/node-fs-extra</a><p>Node.js: extra methods for the fs object like copy(), remove(), mkdirs()</p></li><li><a href=https://github.com/antvis/G6>antvis/G6</a><p>♾ A Graph Visualization Framework in JavaScript</p></li><li><a href=https://github.com/AkaraChen/nashi>AkaraChen/nashi</a><p>🍐 The modern jQuery alternative</p></li></ul>
 
 **你能找到我吗**
 
@@ -52,4 +48,4 @@
 ------------
 
 <p align=center><strong>如果你热爱生活就不要浪费时间，因为时间组成了生活。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/23/22, 11:14 AM<br>下一次刷新：11/24/22, 11:14 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/23/22, 12:59 PM<br>下一次刷新：11/24/22, 12:59 PM</p>
