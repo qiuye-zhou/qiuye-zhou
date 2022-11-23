@@ -8,41 +8,19 @@
 
 **Web**
 
-<p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="css3" src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=popout">
-  <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Vue 3" src="https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="TailwindCSS"
-    src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,sass,tailwind,react)](https://skillicons.dev)
 
 **Backend**
 
-<p>
-  <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/-express-13aa52?style=flat-square&logo=express&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-13aa52?style=flat-square&logo=Mysql&logoColor=white" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,express,mysql,redis)](https://skillicons.dev)
 
 **DevOps**
 
-<p>
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="github actions"
-    src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=github,git,githubactions)](https://skillicons.dev)
 
 **Environment**
 
-<p>
-  <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 **开源在...**
 
@@ -51,19 +29,19 @@
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/qiuye-zhou target=_blank><b>qiuye-zhou/qiuye-zhou</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-zhou?style=flat-square&labelColor=343b41"></td><td>5/20/2022</td><td>11/22/2022</td></tr><tr><td><a href=https://github.com/qiuye-zhou/qiuye-robot target=_blank><b>qiuye-zhou/qiuye-robot</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-robot?style=flat-square&labelColor=343b41"></td><td>10/19/2022</td><td>11/17/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/qiuye-zhou target=_blank><b>qiuye-zhou/qiuye-zhou</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-zhou?style=flat-square&labelColor=343b41"></td><td>2022/5/20</td><td>2022/11/23</td></tr><tr><td><a href=https://github.com/qiuye-zhou/qiuye-robot target=_blank><b>qiuye-zhou/qiuye-robot</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-robot?style=flat-square&labelColor=343b41"></td><td>2022/10/19</td><td>2022/11/17</td></tr></tbody></table>
 
 **以往学习过程写的一些简单东西...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/qiuye-codebase target=_blank><b>qiuye-zhou/qiuye-codebase</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-codebase?style=flat-square&labelColor=343b41"></td><td>5/23/2022</td><td>11/20/2022</td></tr><tr><td><a href=https://github.com/qiuye-zhou/HTML-CSS-JavaScript-Case target=_blank><b>qiuye-zhou/HTML-CSS-JavaScript-Case</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/HTML-CSS-JavaScript-Case?style=flat-square&labelColor=343b41"></td><td>6/4/2022</td><td>11/20/2022</td></tr><tr><td><a href=https://github.com/qiuye-zhou/design-mode-demo target=_blank><b>qiuye-zhou/design-mode-demo</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/design-mode-demo?style=flat-square&labelColor=343b41"></td><td>10/25/2022</td><td>11/1/2022</td></tr><tr><td><a href=https://github.com/qiuye-zhou/qiuye-Handwriting target=_blank><b>qiuye-zhou/qiuye-Handwriting</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-Handwriting?style=flat-square&labelColor=343b41"></td><td>11/2/2022</td><td>11/4/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/qiuye-codebase target=_blank><b>qiuye-zhou/qiuye-codebase</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-codebase?style=flat-square&labelColor=343b41"></td><td>2022/5/23</td><td>2022/11/20</td></tr><tr><td><a href=https://github.com/qiuye-zhou/HTML-CSS-JavaScript-Case target=_blank><b>qiuye-zhou/HTML-CSS-JavaScript-Case</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/HTML-CSS-JavaScript-Case?style=flat-square&labelColor=343b41"></td><td>2022/6/4</td><td>2022/11/20</td></tr><tr><td><a href=https://github.com/qiuye-zhou/design-mode-demo target=_blank><b>qiuye-zhou/design-mode-demo</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/design-mode-demo?style=flat-square&labelColor=343b41"></td><td>2022/10/25</td><td>2022/11/1</td></tr><tr><td><a href=https://github.com/qiuye-zhou/qiuye-Handwriting target=_blank><b>qiuye-zhou/qiuye-Handwriting</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-Handwriting?style=flat-square&labelColor=343b41"></td><td>2022/11/2</td><td>2022/11/4</td></tr></tbody></table>
 
 **最近Star了...**
 
-<ul><li><a href=https://github.com/tandpfun/skill-icons>tandpfun/skill-icons</a><p>Showcase your skills on your Github readme or resumé with ease ✨</p></li><li><a href=https://github.com/Coder-Yc/mini_vue2>Coder-Yc/mini_vue2</a><p>实现一个基于webpack构建的小型vue2系统</p></li><li><a href=https://github.com/antvis/GraphInsight>antvis/GraphInsight</a><p>A low-code graph analysis application building platform, and also a graph visual analysis product</p></li><li><a href=https://github.com/axios/axios>axios/axios</a><p>Promise based HTTP client for the browser and node.js</p></li><li><a href=https://github.com/itorr/china-ex>itorr/china-ex</a><p>🇨🇳「中国制霸生成器」中国三十四省份制霸标记工具</p></li></ul>
+<ul><li><a href=https://github.com/golang/go>golang/go</a><p>The Go programming language</p></li><li><a href=https://github.com/tandpfun/skill-icons>tandpfun/skill-icons</a><p>Showcase your skills on your Github readme or resumé with ease ✨</p></li><li><a href=https://github.com/Coder-Yc/mini_vue2>Coder-Yc/mini_vue2</a><p>实现一个基于webpack构建的小型vue2系统</p></li><li><a href=https://github.com/antvis/GraphInsight>antvis/GraphInsight</a><p>A low-code graph analysis application building platform, and also a graph visual analysis product</p></li><li><a href=https://github.com/axios/axios>axios/axios</a><p>Promise based HTTP client for the browser and node.js</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/qiuye-zhou/design-mode-demo>qiuye-zhou/design-mode-demo</a><p>学习设计模式过程中写的小demo</p></li><li><a href=https://github.com/vitejs/vite>vitejs/vite</a><p>Next generation frontend tooling. It's fast!</p></li><li><a href=https://github.com/webfansplz/vuejs-challenges>webfansplz/vuejs-challenges</a><p>Collection of Vue.js challenges</p></li><li><a href=https://github.com/expressjs/cors>expressjs/cors</a><p>Node.js CORS middleware</p></li><li><a href=https://github.com/rollup/rollup>rollup/rollup</a><p>Next-generation ES module bundler</p></li></ul>
+<ul><li><a href=https://github.com/AkaraChen/nashi>AkaraChen/nashi</a><p>🍐 The modern jQuery alternative</p></li><li><a href=https://github.com/takayama-lily/oicq>takayama-lily/oicq</a><p>Tencent QQ Bot Library for Node.js</p></li><li><a href=https://github.com/lowlighter/metrics>lowlighter/metrics</a><p>📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!</p></li><li><a href=https://github.com/vitest-dev/vitest>vitest-dev/vitest</a><p>A Vite-native test framework. It's fast!</p></li><li><a href=https://github.com/qiuye-zhou/design-mode-demo>qiuye-zhou/design-mode-demo</a><p>学习设计模式过程中写的小demo</p></li></ul>
 
 **你能找到我吗**
 
@@ -74,4 +52,4 @@
 ------------
 
 <p align=center><strong>如果你热爱生活就不要浪费时间，因为时间组成了生活。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/23/22, 8:56 AM<br>下一次刷新：11/24/22, 8:56 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2022/11/23 上午10:56<br>下一次刷新：2022/11/24 上午10:56</p>
