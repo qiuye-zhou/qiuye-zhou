@@ -4,7 +4,7 @@ import { githubAPIEndPoint } from '../config/config'
 
 const request = axios.create({
   baseURL: githubAPIEndPoint,
-  timeout: 4000,
+  timeout: 5000,
   httpsAgent: new https.Agent({
       rejectUnauthorized: false
   })
