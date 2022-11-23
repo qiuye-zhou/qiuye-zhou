@@ -16,11 +16,7 @@
 
 **DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,githubactions)](https://skillicons.dev)
-
-**Environment**
-
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,git,githubactions)](https://skillicons.dev)
 
 **开源在...**
 
