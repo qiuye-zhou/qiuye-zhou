@@ -25,7 +25,7 @@
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/qiuye-zhou target=_blank><b>qiuye-zhou/qiuye-zhou</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-zhou?style=flat-square&labelColor=343b41"></td><td>5/20/2022</td><td>11/23/2022</td></tr><tr><td><a href=https://github.com/qiuye-zhou/qiuye-robot target=_blank><b>qiuye-zhou/qiuye-robot</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-robot?style=flat-square&labelColor=343b41"></td><td>10/19/2022</td><td>11/17/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/qiuye-zhou target=_blank><b>qiuye-zhou/qiuye-zhou</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-zhou?style=flat-square&labelColor=343b41"></td><td>5/20/2022</td><td>11/24/2022</td></tr><tr><td><a href=https://github.com/qiuye-zhou/qiuye-robot target=_blank><b>qiuye-zhou/qiuye-robot</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-robot?style=flat-square&labelColor=343b41"></td><td>10/19/2022</td><td>11/17/2022</td></tr></tbody></table>
 
 **以往学习过程写的一些简单东西...**
 
@@ -33,11 +33,11 @@
 
 **最近Star了...**
 
-<ul><li><a href=https://github.com/golang/go>golang/go</a><p>The Go programming language</p></li><li><a href=https://github.com/tandpfun/skill-icons>tandpfun/skill-icons</a><p>Showcase your skills on your Github readme or resumé with ease ✨</p></li><li><a href=https://github.com/Coder-Yc/mini_vue2>Coder-Yc/mini_vue2</a><p>实现一个基于webpack构建的小型vue2系统</p></li><li><a href=https://github.com/antvis/GraphInsight>antvis/GraphInsight</a><p>A low-code graph analysis application building platform, and also a graph visual analysis product</p></li><li><a href=https://github.com/axios/axios>axios/axios</a><p>Promise based HTTP client for the browser and node.js</p></li></ul>
+<ul><li><a href=https://github.com/justjavac/free-programming-books-zh_CN>justjavac/free-programming-books-zh_CN</a><p>:books: 免费的计算机编程类中文书籍，欢迎投稿</p></li><li><a href=https://github.com/ascoders/weekly>ascoders/weekly</a><p>前端精读周刊。帮你理解最前沿、实用的技术。</p></li><li><a href=https://github.com/HZFE/awesome-interview>HZFE/awesome-interview</a><p>剑指前端 Offer</p></li><li><a href=https://github.com/golang/go>golang/go</a><p>The Go programming language</p></li><li><a href=https://github.com/tandpfun/skill-icons>tandpfun/skill-icons</a><p>Showcase your skills on your Github readme or resumé with ease ✨</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/SBoudrias/Inquirer.js>SBoudrias/Inquirer.js</a><p>A collection of common interactive command line user interfaces.</p></li><li><a href=https://github.com/Sunny-117/js-challenges>Sunny-117/js-challenges</a><p>集锦前端JavaScript编程题，Not just for interviews</p></li><li><a href=https://github.com/lodash/lodash>lodash/lodash</a><p>A modern JavaScript utility library delivering modularity, performance, & extras.</p></li><li><a href=https://github.com/lowlighter/metrics>lowlighter/metrics</a><p>📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!</p></li><li><a href=https://github.com/rust-lang/rust>rust-lang/rust</a><p>Empowering everyone to build reliable and efficient software.</p></li></ul>
+<ul><li><a href=https://github.com/type-challenges/type-challenges>type-challenges/type-challenges</a><p>Collection of TypeScript type challenges with online judge</p></li><li><a href=https://github.com/SBoudrias/Inquirer.js>SBoudrias/Inquirer.js</a><p>A collection of common interactive command line user interfaces.</p></li><li><a href=https://github.com/lodash/lodash>lodash/lodash</a><p>A modern JavaScript utility library delivering modularity, performance, & extras.</p></li><li><a href=https://github.com/antvis/GraphInsight>antvis/GraphInsight</a><p>A low-code graph analysis application building platform, and also a graph visual analysis product</p></li><li><a href=https://github.com/antvis/G6>antvis/G6</a><p>♾ A Graph Visualization Framework in JavaScript</p></li></ul>
 
 **你能找到我吗**
 
@@ -48,4 +48,4 @@
 ------------
 
 <p align=center><strong>如果你热爱生活就不要浪费时间，因为时间组成了生活。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/24/22, 9:01 AM<br>下一次刷新：11/25/22, 9:01 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/25/22, 8:57 AM<br>下一次刷新：11/26/22, 8:57 AM</p>
