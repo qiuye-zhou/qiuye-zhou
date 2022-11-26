@@ -25,7 +25,7 @@
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/qiuye-zhou target=_blank><b>qiuye-zhou/qiuye-zhou</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-zhou?style=flat-square&labelColor=343b41"></td><td>5/20/2022</td><td>11/24/2022</td></tr><tr><td><a href=https://github.com/qiuye-zhou/qiuye-robot target=_blank><b>qiuye-zhou/qiuye-robot</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-robot?style=flat-square&labelColor=343b41"></td><td>10/19/2022</td><td>11/17/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/qiuye-zhou target=_blank><b>qiuye-zhou/qiuye-zhou</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-zhou?style=flat-square&labelColor=343b41"></td><td>5/20/2022</td><td>11/25/2022</td></tr><tr><td><a href=https://github.com/qiuye-zhou/qiuye-robot target=_blank><b>qiuye-zhou/qiuye-robot</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-robot?style=flat-square&labelColor=343b41"></td><td>10/19/2022</td><td>11/17/2022</td></tr></tbody></table>
 
 **以往学习过程写的一些简单东西...**
 
@@ -37,7 +37,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/type-challenges/type-challenges>type-challenges/type-challenges</a><p>Collection of TypeScript type challenges with online judge</p></li><li><a href=https://github.com/SBoudrias/Inquirer.js>SBoudrias/Inquirer.js</a><p>A collection of common interactive command line user interfaces.</p></li><li><a href=https://github.com/lodash/lodash>lodash/lodash</a><p>A modern JavaScript utility library delivering modularity, performance, & extras.</p></li><li><a href=https://github.com/antvis/GraphInsight>antvis/GraphInsight</a><p>A low-code graph analysis application building platform, and also a graph visual analysis product</p></li><li><a href=https://github.com/antvis/G6>antvis/G6</a><p>♾ A Graph Visualization Framework in JavaScript</p></li></ul>
+<ul><li><a href=https://github.com/itorr/china-ex>itorr/china-ex</a><p>🇨🇳「中国制霸生成器」中国三十四省份制霸标记工具</p></li><li><a href=https://github.com/febobo/web-interview>febobo/web-interview</a><p>语音打卡社群维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题</p></li><li><a href=https://github.com/MakinoharaShoko/WebGAL>MakinoharaShoko/WebGAL</a><p>全新的网页端视觉小说引擎 | A brand new web Visual Novel engine.</p></li><li><a href=https://github.com/vitejs/vite>vitejs/vite</a><p>Next generation frontend tooling. It's fast!</p></li><li><a href=https://github.com/webfansplz/vuejs-challenges>webfansplz/vuejs-challenges</a><p>Collection of Vue.js challenges</p></li></ul>
 
 **你能找到我吗**
 
@@ -48,4 +48,4 @@
 ------------
 
 <p align=center><strong>如果你热爱生活就不要浪费时间，因为时间组成了生活。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/25/22, 8:57 AM<br>下一次刷新：11/26/22, 8:57 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/26/22, 8:53 AM<br>下一次刷新：11/27/22, 8:53 AM</p>
