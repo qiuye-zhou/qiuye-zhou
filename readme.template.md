@@ -8,15 +8,15 @@
 
 **Web**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,sass,tailwind,vite,rollupjs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,sass,tailwind,vite,rollupjs,react&perline=8)](https://skillicons.dev)
 
 **Backend**
 
-[![My Skills](https://skillicons.dev/icons?i=nestjs,express,nodejs,mysql,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,express,nodejs,mysql,redis&perline=8)](https://skillicons.dev)
 
 **DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,git,stackoverflow,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,git,stackoverflow,githubactions&perline=8)](https://skillicons.dev)
 
 **开源在...**
 
