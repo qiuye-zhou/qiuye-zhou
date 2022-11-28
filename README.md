@@ -8,15 +8,15 @@
 
 **Web**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,sass,tailwind,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,sass,tailwind,vite,rollupjs,react)](https://skillicons.dev)
 
 **Backend**
 
-[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,express,mysql,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,express,nodejs,mysql,redis)](https://skillicons.dev)
 
 **DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,git,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,git,stackoverflow,githubactions)](https://skillicons.dev)
 
 **开源在...**
 
@@ -25,7 +25,7 @@
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/qiuye-zhou target=_blank><b>qiuye-zhou/qiuye-zhou</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-zhou?style=flat-square&labelColor=343b41"></td><td>5/20/2022</td><td>11/27/2022</td></tr><tr><td><a href=https://github.com/qiuye-zhou/qiuye-robot target=_blank><b>qiuye-zhou/qiuye-robot</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-robot?style=flat-square&labelColor=343b41"></td><td>10/19/2022</td><td>11/17/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/qiuye-zhou target=_blank><b>qiuye-zhou/qiuye-zhou</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-zhou?style=flat-square&labelColor=343b41"></td><td>5/20/2022</td><td>11/28/2022</td></tr><tr><td><a href=https://github.com/qiuye-zhou/qiuye-robot target=_blank><b>qiuye-zhou/qiuye-robot</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-robot?style=flat-square&labelColor=343b41"></td><td>10/19/2022</td><td>11/17/2022</td></tr></tbody></table>
 
 **以往学习过程写的一些简单东西...**
 
@@ -37,7 +37,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/SBoudrias/Inquirer.js>SBoudrias/Inquirer.js</a><p>A collection of common interactive command line user interfaces.</p></li><li><a href=https://github.com/jprichardson/node-fs-extra>jprichardson/node-fs-extra</a><p>Node.js: extra methods for the fs object like copy(), remove(), mkdirs()</p></li><li><a href=https://github.com/MakinoharaShoko/WebGAL>MakinoharaShoko/WebGAL</a><p>全新的网页端视觉小说引擎 | A brand new web Visual Novel engine.</p></li><li><a href=https://github.com/AkaraChen/nashi>AkaraChen/nashi</a><p>🍐 The modern jQuery alternative</p></li><li><a href=https://github.com/antvis/GraphInsight>antvis/GraphInsight</a><p>A low-code graph analysis application building platform, and also a graph visual analysis product</p></li></ul>
+<ul><li><a href=https://github.com/webfansplz/vuejs-challenges>webfansplz/vuejs-challenges</a><p>Collection of Vue.js challenges</p></li><li><a href=https://github.com/expressjs/cors>expressjs/cors</a><p>Node.js CORS middleware</p></li><li><a href=https://github.com/vitest-dev/vitest>vitest-dev/vitest</a><p>A Vite-native test framework. It's fast!</p></li><li><a href=https://github.com/qiuye-zhou/qiuye-Handwriting>qiuye-zhou/qiuye-Handwriting</a><p>手写实现一些经典的代码、内置函数、常用的工具函数</p></li><li><a href=https://github.com/pingan8787/Leo-JavaScript>pingan8787/Leo-JavaScript</a><p>欢迎关注公众号“前端自习课”，本仓库包含丰富的前端学习资料，包括 JavaScript、前端框架、HTTP、GraphQL、TS、Vue、React、Webpack等，还有很多我的原创文章，喜欢的朋友欢迎stat。:rocket:持续更新中...</p></li></ul>
 
 **你能找到我吗**
 
@@ -48,4 +48,4 @@
 ------------
 
 <p align=center><strong>如果你热爱生活就不要浪费时间，因为时间组成了生活。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/28/22, 8:54 AM<br>下一次刷新：11/29/22, 8:54 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/28/22, 10:18 AM<br>下一次刷新：11/29/22, 10:18 AM</p>
