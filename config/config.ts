@@ -7,6 +7,7 @@ export const source = {
         address: [
             'qiuye-zhou/qiuye-zhou',
             'qiuye-zhou/qiuye-robot',
+            'qiuye-zhou/qiuye-website'
         ]
     },
     learncode: {
@@ -16,7 +17,8 @@ export const source = {
             'qiuye-zhou/qiuye-codebase',
             'qiuye-zhou/HTML-CSS-JavaScript-Case',
             'qiuye-zhou/design-mode-demo',
-            'qiuye-zhou/qiuye-Handwriting'
+            'qiuye-zhou/qiuye-Handwriting',
+            'qiuye-zhou/DemoLists'
         ]
     }
 }
