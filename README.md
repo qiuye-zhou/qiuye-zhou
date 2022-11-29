@@ -33,11 +33,11 @@
 
 **最近Star了...**
 
-<ul><li><a href=https://github.com/qiuye-zhou/qiuye-website>qiuye-zhou/qiuye-website</a><p>home page</p></li><li><a href=https://github.com/haizlin/fe-interview>haizlin/fe-interview</a><p>前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……</p></li><li><a href=https://github.com/qiuye-zhou/use-aid>qiuye-zhou/use-aid</a><p>Utility set for Vue3 only</p></li><li><a href=https://github.com/ant-galaxy/oasis-engine>ant-galaxy/oasis-engine</a><p>A typescript interactive engine, support 2D, 3D, animation, physics, built on WebGL and glTF.</p></li><li><a href=https://github.com/justjavac/free-programming-books-zh_CN>justjavac/free-programming-books-zh_CN</a><p>:books: 免费的计算机编程类中文书籍，欢迎投稿</p></li></ul>
+<ul><li><a href=https://github.com/yue1123/vue3-baidu-map-gl>yue1123/vue3-baidu-map-gl</a><p>🎉百度地图 GL版 Vue3 组件库，baidu map gl components libary based on Vue3.0</p></li><li><a href=https://github.com/qiuye-zhou/qiuye-website>qiuye-zhou/qiuye-website</a><p>home page</p></li><li><a href=https://github.com/haizlin/fe-interview>haizlin/fe-interview</a><p>前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……</p></li><li><a href=https://github.com/qiuye-zhou/use-aid>qiuye-zhou/use-aid</a><p>Utility set for Vue3 only</p></li><li><a href=https://github.com/ant-galaxy/oasis-engine>ant-galaxy/oasis-engine</a><p>A typescript interactive engine, support 2D, 3D, animation, physics, built on WebGL and glTF.</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/axios/axios>axios/axios</a><p>Promise based HTTP client for the browser and node.js</p></li><li><a href=https://github.com/SBoudrias/Inquirer.js>SBoudrias/Inquirer.js</a><p>A collection of common interactive command line user interfaces.</p></li><li><a href=https://github.com/itorr/china-ex>itorr/china-ex</a><p>🇨🇳「中国制霸生成器」中国三十四省份制霸标记工具</p></li><li><a href=https://github.com/MakinoharaShoko/WebGAL>MakinoharaShoko/WebGAL</a><p>全新的网页端视觉小说引擎 | A brand new web Visual Novel engine.</p></li><li><a href=https://github.com/Coder-Yc/mini_vue2>Coder-Yc/mini_vue2</a><p>实现一个基于webpack构建的小型vue2系统</p></li></ul>
+<ul><li><a href=https://github.com/golang/go>golang/go</a><p>The Go programming language</p></li><li><a href=https://github.com/AkaraChen/nashi>AkaraChen/nashi</a><p>🍐 The modern jQuery alternative</p></li><li><a href=https://github.com/vitest-dev/vitest>vitest-dev/vitest</a><p>A Vite-native test framework. It's fast!</p></li><li><a href=https://github.com/qiuye-zhou/qiuye-Handwriting>qiuye-zhou/qiuye-Handwriting</a><p>手写实现一些经典的代码、内置函数、常用的工具函数</p></li><li><a href=https://github.com/Sunny-117/js-challenges>Sunny-117/js-challenges</a><p>集锦前端JavaScript编程题，Not just for interviews</p></li></ul>
 
 **你能找到我吗**
 
@@ -48,4 +48,4 @@
 ------------
 
 <p align=center><strong>如果你热爱生活就不要浪费时间，因为时间组成了生活。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/28/22, 10:22 AM<br>下一次刷新：11/29/22, 10:22 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/29/22, 8:57 AM<br>下一次刷新：11/30/22, 8:57 AM</p>
