@@ -8,7 +8,8 @@ export const source = {
         address: [
             'qiuye-zhou/qiuye-zhou',
             'qiuye-zhou/qiuye-robot',
-            'qiuye-zhou/qiuye-website'
+            'qiuye-zhou/qiuye-website',
+            'qiuye-zhou/todolist'
         ]
     },
     learncode: {
