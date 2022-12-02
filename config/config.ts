@@ -1,5 +1,6 @@
 export const source = {
     OpenSource: [
+        'qiuye-zhou/use-aid',
     ],
     SmallToys: {
         limit: 5,
