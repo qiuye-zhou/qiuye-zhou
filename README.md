@@ -33,11 +33,11 @@
 
 **最近Star了...**
 
-<ul><li><a href=https://github.com/DiF1202/EveryDayCoding>DiF1202/EveryDayCoding</a><p>校招结束啦，决定将之前整理的前端手写题算法题开源出来给需要帮助的同学！希望能帮助到各位前端er！如果能来个star更好了</p></li><li><a href=https://github.com/qiuye-zhou/todolist>qiuye-zhou/todolist</a><p>简约风格的todolist，使用本地存储</p></li><li><a href=https://github.com/BetaSu/big-react>BetaSu/big-react</a><p>跟着我，从0实现React18</p></li><li><a href=https://github.com/BoyYangzai/mini-umi>BoyYangzai/mini-umi</a><p>实现微内核架构的最简模型</p></li><li><a href=https://github.com/qiuye-zhou/DemoLists>qiuye-zhou/DemoLists</a></li></ul>
+<ul><li><a href=https://github.com/zhongyang219/TrafficMonitor>zhongyang219/TrafficMonitor</a><p>这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。</p></li><li><a href=https://github.com/DiF1202/EveryDayCoding>DiF1202/EveryDayCoding</a><p>校招结束啦，决定将之前整理的前端手写题算法题开源出来给需要帮助的同学！希望能帮助到各位前端er！如果能来个star更好了</p></li><li><a href=https://github.com/qiuye-zhou/todolist>qiuye-zhou/todolist</a><p>简约风格的todolist，使用本地存储</p></li><li><a href=https://github.com/BetaSu/big-react>BetaSu/big-react</a><p>跟着我，从0实现React18</p></li><li><a href=https://github.com/BoyYangzai/mini-umi>BoyYangzai/mini-umi</a><p>实现微内核架构的最简模型</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Sunny-117/js-challenges>Sunny-117/js-challenges</a><p>集锦前端JavaScript编程题，Not just for interviews</p></li><li><a href=https://github.com/expressjs/cors>expressjs/cors</a><p>Node.js CORS middleware</p></li><li><a href=https://github.com/qiuye-zhou/use-aid>qiuye-zhou/use-aid</a><p>Utility set for Vue3 only</p></li><li><a href=https://github.com/pingan8787/Leo-JavaScript>pingan8787/Leo-JavaScript</a><p>欢迎关注公众号“前端自习课”，本仓库包含丰富的前端学习资料，包括 JavaScript、前端框架、HTTP、GraphQL、TS、Vue、React、Webpack等，还有很多我的原创文章，喜欢的朋友欢迎stat。:rocket:持续更新中...</p></li><li><a href=https://github.com/itorr/china-ex>itorr/china-ex</a><p>🇨🇳「中国制霸生成器」中国三十四省份制霸标记工具</p></li></ul>
+<ul><li><a href=https://github.com/tj/commander.js>tj/commander.js</a><p>node.js command-line interfaces made easy</p></li><li><a href=https://github.com/expressjs/cors>expressjs/cors</a><p>Node.js CORS middleware</p></li><li><a href=https://github.com/qiuye-zhou/qiuye-website>qiuye-zhou/qiuye-website</a><p>home page</p></li><li><a href=https://github.com/yue1123/vue3-baidu-map-gl>yue1123/vue3-baidu-map-gl</a><p>🎉百度地图 GL版 Vue3 组件库，baidu map gl components libary based on Vue3.0</p></li><li><a href=https://github.com/axios/axios>axios/axios</a><p>Promise based HTTP client for the browser and node.js</p></li></ul>
 
 **你能找到我吗**
 
@@ -48,4 +48,4 @@
 ------------
 
 <p align=center><strong>如果你热爱生活就不要浪费时间，因为时间组成了生活。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：12/4/22, 9:45 AM<br>下一次刷新：12/5/22, 9:45 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：12/5/22, 8:52 AM<br>下一次刷新：12/6/22, 8:52 AM</p>
