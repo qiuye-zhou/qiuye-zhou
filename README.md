@@ -25,7 +25,7 @@
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/qiuye-zhou target=_blank><b>qiuye-zhou/qiuye-zhou</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-zhou?style=flat-square&labelColor=343b41"></td><td>5/20/2022</td><td>12/4/2022</td></tr><tr><td><a href=https://github.com/qiuye-zhou/qiuye-robot target=_blank><b>qiuye-zhou/qiuye-robot</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-robot?style=flat-square&labelColor=343b41"></td><td>10/19/2022</td><td>11/17/2022</td></tr><tr><td><a href=https://github.com/qiuye-zhou/qiuye-website target=_blank><b>qiuye-zhou/qiuye-website</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-website?style=flat-square&labelColor=343b41"></td><td>11/23/2022</td><td>12/2/2022</td></tr><tr><td><a href=https://github.com/qiuye-zhou/todolist target=_blank><b>qiuye-zhou/todolist</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/todolist?style=flat-square&labelColor=343b41"></td><td>12/1/2022</td><td>12/3/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/qiuye-zhou target=_blank><b>qiuye-zhou/qiuye-zhou</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-zhou?style=flat-square&labelColor=343b41"></td><td>5/20/2022</td><td>12/5/2022</td></tr><tr><td><a href=https://github.com/qiuye-zhou/qiuye-robot target=_blank><b>qiuye-zhou/qiuye-robot</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-robot?style=flat-square&labelColor=343b41"></td><td>10/19/2022</td><td>11/17/2022</td></tr><tr><td><a href=https://github.com/qiuye-zhou/qiuye-website target=_blank><b>qiuye-zhou/qiuye-website</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-website?style=flat-square&labelColor=343b41"></td><td>11/23/2022</td><td>12/2/2022</td></tr><tr><td><a href=https://github.com/qiuye-zhou/todolist target=_blank><b>qiuye-zhou/todolist</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/todolist?style=flat-square&labelColor=343b41"></td><td>12/1/2022</td><td>12/5/2022</td></tr></tbody></table>
 
 **以往学习过程写的一些简单东西...**
 
@@ -37,7 +37,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/tj/commander.js>tj/commander.js</a><p>node.js command-line interfaces made easy</p></li><li><a href=https://github.com/expressjs/cors>expressjs/cors</a><p>Node.js CORS middleware</p></li><li><a href=https://github.com/qiuye-zhou/qiuye-website>qiuye-zhou/qiuye-website</a><p>home page</p></li><li><a href=https://github.com/yue1123/vue3-baidu-map-gl>yue1123/vue3-baidu-map-gl</a><p>🎉百度地图 GL版 Vue3 组件库，baidu map gl components libary based on Vue3.0</p></li><li><a href=https://github.com/axios/axios>axios/axios</a><p>Promise based HTTP client for the browser and node.js</p></li></ul>
+<ul><li><a href=https://github.com/expressjs/cors>expressjs/cors</a><p>Node.js CORS middleware</p></li><li><a href=https://github.com/itorr/china-ex>itorr/china-ex</a><p>🇨🇳「中国制霸生成器」中国三十四省份制霸标记工具</p></li><li><a href=https://github.com/antvis/GraphInsight>antvis/GraphInsight</a><p>A low-code graph analysis application building platform, and also a graph visual analysis product</p></li><li><a href=https://github.com/tandpfun/skill-icons>tandpfun/skill-icons</a><p>Showcase your skills on your Github readme or resumé with ease ✨</p></li><li><a href=https://github.com/antvis/G6>antvis/G6</a><p>♾ A Graph Visualization Framework in JavaScript</p></li></ul>
 
 **你能找到我吗**
 
@@ -48,4 +48,4 @@
 ------------
 
 <p align=center><strong>如果你热爱生活就不要浪费时间，因为时间组成了生活。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：12/5/22, 8:52 AM<br>下一次刷新：12/6/22, 8:52 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：12/6/22, 8:52 AM<br>下一次刷新：12/7/22, 8:52 AM</p>
