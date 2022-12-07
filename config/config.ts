@@ -22,8 +22,7 @@ export const source = {
             'qiuye-zhou/qiuye-Handwriting',
             'qiuye-zhou/DemoLists',
             'qiuye-zhou/mini-promise',
-            'qiuye-zhou/mini-webpack',
-            'qiuye-zhou/DemoLists'
+            'qiuye-zhou/mini-webpack'
         ]
     }
 }
