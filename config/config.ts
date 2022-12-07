@@ -23,7 +23,7 @@ export const source = {
             'qiuye-zhou/DemoLists',
             'qiuye-zhou/mini-promise',
             'qiuye-zhou/mini-webpack',
-            'qiuye-zhou/DemoList'
+            'qiuye-zhou/DemoLists'
         ]
     }
 }
