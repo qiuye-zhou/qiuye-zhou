@@ -4,7 +4,7 @@ export const source = {
     ],
     SmallToys: {
         limit: 5,
-        random: false,
+        random: true,
         address: [
             'qiuye-zhou/qiuye-zhou',
             'qiuye-zhou/qiuye-robot',
