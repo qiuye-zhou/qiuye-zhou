@@ -18,24 +18,24 @@
 
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,git,stackoverflow,githubactions&perline=8)](https://skillicons.dev)
 
-**开源在...**
+**开源在**
 
 <!-- open_source_project -->
 
 
-**写过的玩具..**
+**写过的玩具**
 
 <!-- small_toys_inject -->
 
-**以往学习过程写的一些简单东西...**
+**以往学习过程写的一些简单东西**
 
 <!-- learn_code_inject -->
 
-**最近Star了...**
+**最近Star了**
 
 <!-- recent_star_inject -->
 
-**曾经看了...**
+**曾经看了**
 
 <!-- random_stars_inject -->
 
