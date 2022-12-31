@@ -2,6 +2,8 @@
 
 <img align="right" width="300" src="https://github.com/qiuye-zhou/qiuye-zhou/blob/master/public/bg-skd.png"/>
 
+<h3>我现在主要学习前端，会一点后端</h3>
+
 <h3>I am a student from China, Now I mainly study the front end.</h3>
 
 我具备以下技能：
