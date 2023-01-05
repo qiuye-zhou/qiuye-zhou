@@ -35,7 +35,7 @@
 
 <!-- recent_star_inject -->
 
-**曾经看了**
+**曾经Star了**
 
 <!-- random_stars_inject -->
 
