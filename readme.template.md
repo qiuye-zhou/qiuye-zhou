@@ -1,22 +1,20 @@
 # qiuye-zhou ![](https://visitor-badge.laobi.icu/badge?page_id=qiuye-zhou.readme) [![wakatime](https://wakatime.com/badge/user/9213dc96-df0d-4e66-b0bb-50f9e04e988c.svg)](https://wakatime.com/@9213dc96-df0d-4e66-b0bb-50f9e04e988c)
 
-<img align="right" width="300" src="https://github.com/qiuye-zhou/qiuye-zhou/blob/master/public/bg-skd.png"/>
-
 <h3>我现在主要学习前端，会一点后端</h3>
 
 我具备以下技能：
 
 **Web**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,sass,tailwind,vite,rollupjs,react&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,sass,tailwind,vite,rollupjs,react&perline=10)](https://skillicons.dev)
 
 **Backend**
 
-[![My Skills](https://skillicons.dev/icons?i=nestjs,express,nodejs,mysql,redis&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,express,nodejs,mysql,redis&perline=10)](https://skillicons.dev)
 
 **DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,git,stackoverflow,githubactions&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,git,stackoverflow,githubactions&perline=10)](https://skillicons.dev)
 
 ------------
 
