@@ -47,8 +47,6 @@
 
 <!-- random_stars_inject -->
 
-参考于[Innei](https://github.com/Innei/Innei)
-
 ------------
 
 <!-- motto -->
