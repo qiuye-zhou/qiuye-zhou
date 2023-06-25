@@ -1,5 +1,4 @@
 export const COMMNETS = Object.freeze({
-  LEARNCODE: 'learn_code_inject',
   FOOTER: 'footer_inject',
   MOTTO: 'motto',
   SMALL_TOYS_INJECT: 'small_toys_inject',
