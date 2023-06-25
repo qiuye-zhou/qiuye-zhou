@@ -12,19 +12,6 @@ export const source = {
             'qiuye-zhou/todolist'
         ]
     },
-    learncode: {
-        limit: 5,
-        random: true,
-        address: [
-            'qiuye-zhou/qiuye-codebase',
-            'qiuye-zhou/HTML-CSS-JavaScript-Case',
-            'qiuye-zhou/design-mode-demo',
-            'qiuye-zhou/qiuye-Handwriting',
-            'qiuye-zhou/DemoLists',
-            'qiuye-zhou/mini-promise',
-            'qiuye-zhou/mini-webpack'
-        ]
-    }
 }
 
 export const github = {

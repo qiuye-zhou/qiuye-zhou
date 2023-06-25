@@ -29,25 +29,6 @@ export function injection_footer(newCon: string) {
     )
 }
 
-export async function injection_learncode(newCon: string) {
-  const limit = source.learncode.limit
-  const learncode_list = source.learncode.random ? 
-    shuffle(source.learncode.address).slice(0, limit) 
-    : source.learncode.address.slice(0, limit)
-  
-  const learnCodeDetail: GRepo[] = await Promise.all(
-    learncode_list.map(async (name) => {
-      const data = await request.get('/repos/' + name)
-      return data.data
-    }),
-  )
-  return newCon
-  .replace(
-    getcon('LEARN_CODE_INJECT'),
-    generateHTML(learnCodeDetail),
-  ) as string
-}
-
 export async function injection_SmallToys(newCon: string) {
   const limit = source.SmallToys.limit
   const SmallToys_list = source.SmallToys.random ? 

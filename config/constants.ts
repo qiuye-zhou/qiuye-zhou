@@ -2,7 +2,6 @@ export const COMMNETS = Object.freeze({
   LEARNCODE: 'learn_code_inject',
   FOOTER: 'footer_inject',
   MOTTO: 'motto',
-  LEARN_CODE_INJECT: 'learn_code_inject',
   SMALL_TOYS_INJECT: 'small_toys_inject',
   RECENT_STAR_INJECT: 'recent_star_inject',
   RANDOM_STARS_INJECT: 'random_stars_inject',
