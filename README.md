@@ -1,6 +1,6 @@
 # qiuye-zhou ![](https://visitor-badge.laobi.icu/badge?page_id=qiuye-zhou.readme) [![wakatime](https://wakatime.com/badge/user/9213dc96-df0d-4e66-b0bb-50f9e04e988c.svg)](https://wakatime.com/@9213dc96-df0d-4e66-b0bb-50f9e04e988c)
 
-<h3>我现在主要学习前端，会一点后端</h3>
+我现在主要学习前端，会一点后端
 
 我具备以下技能：
 
@@ -27,7 +27,7 @@
 
 **写过的一些小的东西**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/qiuye-zhou target=_blank><b>qiuye-zhou/qiuye-zhou</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-zhou?style=flat-square&labelColor=343b41"></td><td>5/20/2022</td><td>9/23/2023</td></tr><tr><td><a href=https://github.com/qiuye-zhou/qiuye-robot target=_blank><b>qiuye-zhou/qiuye-robot</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-robot?style=flat-square&labelColor=343b41"></td><td>10/19/2022</td><td>9/23/2023</td></tr><tr><td><a href=https://github.com/qiuye-zhou/todolist target=_blank><b>qiuye-zhou/todolist</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/todolist?style=flat-square&labelColor=343b41"></td><td>12/1/2022</td><td>9/20/2023</td></tr><tr><td><a href=https://github.com/qiuye-zhou/qiuye-website target=_blank><b>qiuye-zhou/qiuye-website</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-website?style=flat-square&labelColor=343b41"></td><td>11/23/2022</td><td>9/20/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/todolist target=_blank><b>qiuye-zhou/todolist</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/todolist?style=flat-square&labelColor=343b41"></td><td>12/1/2022</td><td>9/20/2023</td></tr><tr><td><a href=https://github.com/qiuye-zhou/qiuye-zhou target=_blank><b>qiuye-zhou/qiuye-zhou</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-zhou?style=flat-square&labelColor=343b41"></td><td>5/20/2022</td><td>9/24/2023</td></tr><tr><td><a href=https://github.com/qiuye-zhou/qiuye-website target=_blank><b>qiuye-zhou/qiuye-website</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-website?style=flat-square&labelColor=343b41"></td><td>11/23/2022</td><td>9/20/2023</td></tr><tr><td><a href=https://github.com/qiuye-zhou/qiuye-robot target=_blank><b>qiuye-zhou/qiuye-robot</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-robot?style=flat-square&labelColor=343b41"></td><td>10/19/2022</td><td>9/24/2023</td></tr></tbody></table>
 
 ------------
 
@@ -39,9 +39,9 @@
 
 **曾经Star了**
 
-<ul><li><a href=https://github.com/antvis/G6VP>antvis/G6VP</a><p>G6VP is an online visual analysis tool for graphs and a low-code platform for building graph applications.</p></li><li><a href=https://github.com/mqyqingfeng/learn-typescript>mqyqingfeng/learn-typescript</a><p>可能是中国最好的 TypeScript 从入门到进阶系统教程</p></li><li><a href=https://github.com/OneSizeFitsQuorum/git-tips>OneSizeFitsQuorum/git-tips</a><p>33 条常用 git 命令详解</p></li><li><a href=https://github.com/justjavac/free-programming-books-zh_CN>justjavac/free-programming-books-zh_CN</a><p>:books: 免费的计算机编程类中文书籍，欢迎投稿</p></li><li><a href=https://github.com/anse-app/chatgpt-demo>anse-app/chatgpt-demo</a><p>Minimal web UI for ChatGPT.</p></li></ul>
+<ul><li><a href=https://github.com/BoyYangzai/mini-umi>BoyYangzai/mini-umi</a><p>《从0到1手写可插拔前端框架》小册 by 洋</p></li><li><a href=https://github.com/anse-app/chatgpt-demo>anse-app/chatgpt-demo</a><p>Minimal web UI for ChatGPT.</p></li><li><a href=https://github.com/qiuye-zhou/todolist>qiuye-zhou/todolist</a><p>简约风格的todolist，使用本地存储</p></li><li><a href=https://github.com/golang/go>golang/go</a><p>The Go programming language</p></li><li><a href=https://github.com/lefex/FE>lefex/FE</a><p>前端 100 天，帮助 10W 人入门并进阶前端。</p></li></ul>
 
 ------------
 
 <p align=center><strong>如果你热爱生活就不要浪费时间，因为时间组成了生活。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/24/23, 8:45 AM<br>下一次刷新：9/25/23, 8:45 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/24/23, 9:21 PM<br>下一次刷新：9/25/23, 9:21 PM</p>
