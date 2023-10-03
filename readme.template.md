@@ -6,11 +6,11 @@
 
 **Web**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,sass,tailwind,vite,rollupjs,react&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,sass,tailwind,vite,react,nextjs,jest,rollupjs&perline=10)](https://skillicons.dev)
 
 **Backend**
 
-[![My Skills](https://skillicons.dev/icons?i=nestjs,express,nodejs,mysql,redis&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,express,nodejs,mysql,mongodb,redis&perline=10)](https://skillicons.dev)
 
 **DevOps**
 
