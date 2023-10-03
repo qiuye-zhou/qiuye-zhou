@@ -6,11 +6,11 @@
 
 **Web**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,sass,tailwind,vite,rollupjs,react&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,sass,tailwind,vite,react,nextjs,jest,rollupjs&perline=10)](https://skillicons.dev)
 
 **Backend**
 
-[![My Skills](https://skillicons.dev/icons?i=nestjs,express,nodejs,mysql,redis&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,express,nodejs,mysql,mongodb,redis&perline=10)](https://skillicons.dev)
 
 **DevOps**
 
@@ -27,7 +27,7 @@
 
 **写过的一些小的东西**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/qiuye-robot target=_blank><b>qiuye-zhou/qiuye-robot</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-robot?style=flat-square&labelColor=343b41"></td><td>10/19/2022</td><td>9/30/2023</td></tr><tr><td><a href=https://github.com/qiuye-zhou/qiuye-zhou target=_blank><b>qiuye-zhou/qiuye-zhou</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-zhou?style=flat-square&labelColor=343b41"></td><td>5/20/2022</td><td>10/2/2023</td></tr><tr><td><a href=https://github.com/qiuye-zhou/qiuye-website target=_blank><b>qiuye-zhou/qiuye-website</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-website?style=flat-square&labelColor=343b41"></td><td>11/23/2022</td><td>10/2/2023</td></tr><tr><td><a href=https://github.com/qiuye-zhou/todolist target=_blank><b>qiuye-zhou/todolist</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/todolist?style=flat-square&labelColor=343b41"></td><td>12/1/2022</td><td>10/2/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/qiuye-website target=_blank><b>qiuye-zhou/qiuye-website</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-website?style=flat-square&labelColor=343b41"></td><td>11/23/2022</td><td>10/2/2023</td></tr><tr><td><a href=https://github.com/qiuye-zhou/qiuye-zhou target=_blank><b>qiuye-zhou/qiuye-zhou</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-zhou?style=flat-square&labelColor=343b41"></td><td>5/20/2022</td><td>10/3/2023</td></tr><tr><td><a href=https://github.com/qiuye-zhou/todolist target=_blank><b>qiuye-zhou/todolist</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/todolist?style=flat-square&labelColor=343b41"></td><td>12/1/2022</td><td>10/2/2023</td></tr><tr><td><a href=https://github.com/qiuye-zhou/qiuye-robot target=_blank><b>qiuye-zhou/qiuye-robot</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-robot?style=flat-square&labelColor=343b41"></td><td>10/19/2022</td><td>10/3/2023</td></tr></tbody></table>
 
 ------------
 
@@ -39,9 +39,9 @@
 
 **曾经Star了**
 
-<ul><li><a href=https://github.com/elk-zone/elk>elk-zone/elk</a><p>A nimble Mastodon web client</p></li><li><a href=https://github.com/qiuye-zhou/todolist>qiuye-zhou/todolist</a><p>简约风格的todolist，使用本地存储</p></li><li><a href=https://github.com/BetaSu/big-react>BetaSu/big-react</a><p>跟着我，从0实现React18</p></li><li><a href=https://github.com/DiF1202/EveryDayCoding>DiF1202/EveryDayCoding</a><p>校招结束啦，决定将之前整理的前端手写题算法题开源出来给需要帮助的同学！希望能帮助到各位前端er！如果能来个star更好了</p></li><li><a href=https://github.com/galacean/engine>galacean/engine</a><p>A typescript interactive engine, support 2D, 3D, animation, physics, built on WebGL and glTF.</p></li></ul>
+<ul><li><a href=https://github.com/tandpfun/skill-icons>tandpfun/skill-icons</a><p>Showcase your skills on your Github readme or resumé with ease ✨</p></li><li><a href=https://github.com/Yidadaa/ChatGPT-Next-Web>Yidadaa/ChatGPT-Next-Web</a><p>A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。</p></li><li><a href=https://github.com/mqyqingfeng/learn-typescript>mqyqingfeng/learn-typescript</a><p>可能是中国最好的 TypeScript 从入门到进阶系统教程</p></li><li><a href=https://github.com/qiuye-zhou/qiuye-website>qiuye-zhou/qiuye-website</a><p>home page</p></li><li><a href=https://github.com/pwstrick/daily>pwstrick/daily</a><p>一份搜集的前端面试题目清单、面试相关以及各类学习的资料（不局限于前端）</p></li></ul>
 
 ------------
 
 <p align=center><strong>如果你热爱生活就不要浪费时间，因为时间组成了生活。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/3/23, 8:43 AM<br>下一次刷新：10/4/23, 8:43 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/3/23, 1:40 PM<br>下一次刷新：10/4/23, 1:40 PM</p>
