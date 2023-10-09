@@ -1,8 +1,8 @@
 # qiuye-zhou ![](https://visitor-badge.laobi.icu/badge?page_id=qiuye-zhou.readme) [![wakatime](https://wakatime.com/badge/user/9213dc96-df0d-4e66-b0bb-50f9e04e988c.svg)](https://wakatime.com/@9213dc96-df0d-4e66-b0bb-50f9e04e988c)
 
-我现在主要学习前端，会一点后端
+一个热衷于探索全栈开发新事物的初学者。
 
-我具备以下技能：
+具备以下技能：
 
 **Web**
 
@@ -27,21 +27,21 @@
 
 **写过的一些小的东西**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/todolist target=_blank><b>qiuye-zhou/todolist</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/todolist?style=flat-square&labelColor=343b41"></td><td>12/1/2022</td><td>10/8/2023</td></tr><tr><td><a href=https://github.com/qiuye-zhou/qiuye-website target=_blank><b>qiuye-zhou/qiuye-website</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-website?style=flat-square&labelColor=343b41"></td><td>11/23/2022</td><td>10/8/2023</td></tr><tr><td><a href=https://github.com/qiuye-zhou/qiuye-robot target=_blank><b>qiuye-zhou/qiuye-robot</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-robot?style=flat-square&labelColor=343b41"></td><td>10/19/2022</td><td>10/7/2023</td></tr><tr><td><a href=https://github.com/qiuye-zhou/qiuye-zhou target=_blank><b>qiuye-zhou/qiuye-zhou</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-zhou?style=flat-square&labelColor=343b41"></td><td>5/20/2022</td><td>10/8/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/qiuye-zhou/todolist target=_blank><b>qiuye-zhou/todolist</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/todolist?style=flat-square&labelColor=343b41"></td><td>12/1/2022</td><td>10/8/2023</td></tr><tr><td><a href=https://github.com/qiuye-zhou/qiuye-robot target=_blank><b>qiuye-zhou/qiuye-robot</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-robot?style=flat-square&labelColor=343b41"></td><td>10/19/2022</td><td>10/7/2023</td></tr><tr><td><a href=https://github.com/qiuye-zhou/qiuye-website target=_blank><b>qiuye-zhou/qiuye-website</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-website?style=flat-square&labelColor=343b41"></td><td>11/23/2022</td><td>10/8/2023</td></tr><tr><td><a href=https://github.com/qiuye-zhou/qiuye-zhou target=_blank><b>qiuye-zhou/qiuye-zhou</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-zhou?style=flat-square&labelColor=343b41"></td><td>5/20/2022</td><td>10/9/2023</td></tr></tbody></table>
 
 ------------
 
 **最近Star了**
 
-<ul><li><a href=https://github.com/pro-collection/interview-question>pro-collection/interview-question</a><p>目标是：收集全网最全的面试问题题库</p></li><li><a href=https://github.com/07akioni/xicons>07akioni/xicons</a><p>SVG Vue/React components integrated from fluentui-system-icons, ionicons, ant-design-icons, material-design-icons, Font-Awesome, tabler-icons and carbon icons. (Vue3, Vue2, React, SVG)</p></li><li><a href=https://github.com/pacocoursey/next-themes>pacocoursey/next-themes</a><p>Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing</p></li><li><a href=https://github.com/qiuye-zhou/eslint-config-qiuye>qiuye-zhou/eslint-config-qiuye</a><p>my eslint config.</p></li><li><a href=https://github.com/LorisYounger/VPet>LorisYounger/VPet</a><p>虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序</p></li></ul>
+<ul><li><a href=https://github.com/csseky/cskaoyan>csseky/cskaoyan</a><p>提供计算机考研和软件工程考研专业的各个学校 考研真题</p></li><li><a href=https://github.com/pro-collection/interview-question>pro-collection/interview-question</a><p>目标是：收集全网最全的面试问题题库</p></li><li><a href=https://github.com/07akioni/xicons>07akioni/xicons</a><p>SVG Vue/React components integrated from fluentui-system-icons, ionicons, ant-design-icons, material-design-icons, Font-Awesome, tabler-icons and carbon icons. (Vue3, Vue2, React, SVG)</p></li><li><a href=https://github.com/pacocoursey/next-themes>pacocoursey/next-themes</a><p>Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing</p></li><li><a href=https://github.com/qiuye-zhou/eslint-config-qiuye>qiuye-zhou/eslint-config-qiuye</a><p>my eslint config.</p></li></ul>
 
 ------------
 
 **曾经Star了**
 
-<ul><li><a href=https://github.com/lefex/FE>lefex/FE</a><p>前端 100 天，帮助 10W 人入门并进阶前端。</p></li><li><a href=https://github.com/galacean/engine>galacean/engine</a><p>A typescript interactive engine, support 2D, 3D, animation, physics, built on WebGL and glTF.</p></li><li><a href=https://github.com/qiuye-zhou/DemoLists>qiuye-zhou/DemoLists</a><p>存放个人写的一些demo、实验</p></li><li><a href=https://github.com/Yidadaa/ChatGPT-Next-Web>Yidadaa/ChatGPT-Next-Web</a><p>A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。</p></li><li><a href=https://github.com/BoyYangzai/mini-umi>BoyYangzai/mini-umi</a><p>《从0到1手写可插拔前端框架》小册 by 洋</p></li></ul>
+<ul><li><a href=https://github.com/Yidadaa/ChatGPT-Next-Web>Yidadaa/ChatGPT-Next-Web</a><p>A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。</p></li><li><a href=https://github.com/qiuye-zhou/todolist>qiuye-zhou/todolist</a><p>简约风格的todolist，使用本地存储</p></li><li><a href=https://github.com/qiuye-zhou/DemoLists>qiuye-zhou/DemoLists</a><p>存放个人写的一些demo、实验</p></li><li><a href=https://github.com/haizlin/fe-interview>haizlin/fe-interview</a><p>前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……</p></li><li><a href=https://github.com/elk-zone/elk>elk-zone/elk</a><p>A nimble Mastodon web client</p></li></ul>
 
 ------------
 
 <p align=center><strong>如果你热爱生活就不要浪费时间，因为时间组成了生活。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/9/23, 8:43 AM<br>下一次刷新：10/10/23, 8:43 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/9/23, 9:09 PM<br>下一次刷新：10/10/23, 9:09 PM</p>
