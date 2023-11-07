@@ -58,24 +58,11 @@ export async function injection_recent_star(newCon: string) {
       .slice(0, 5)
       .reduce((str, cur) => str + generateRepoHTML(cur), '')
 
-    newCon =  newCon.replace(
+      return newCon =  newCon.replace(
       getcon('RECENT_STAR_INJECT'),
       mini`
       <ul>
       ${topStar5}
-      </ul>
-      `,
-    )
-
-    const random = shuffle(star.slice(5))
-      .slice(0, 5)
-      .reduce((str, cur) => str + generateRepoHTML(cur), '')
-
-    return newCon.replace(
-      getcon('RANDOM_STARS_INJECT'),
-      mini`
-      <ul>
-      ${random}
       </ul>
       `,
     )

@@ -37,11 +37,5 @@
 
 ------------
 
-**曾经Star了**
-
-<!-- random_stars_inject -->
-
-------------
-
 <!-- motto -->
 <!-- footer_inject -->
