@@ -12,9 +12,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=nestjs,express,nodejs,mysql,mongodb,redis&perline=10)](https://skillicons.dev)
 
+**Other languages**
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,c&perline=10)](https://skillicons.dev)
+
 **DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,git,stackoverflow,githubactions&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,visualstudio,git,stackoverflow,githubactions&perline=10)](https://skillicons.dev)
 
 ------------
 
