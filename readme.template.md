@@ -6,7 +6,7 @@
 
 **Web**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,sass,tailwind,vite,react,nextjs,jest,rollupjs&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,tailwind,sass,vite,nextjs,nuxtjs,jest,rollupjs&perline=10)](https://skillicons.dev)
 
 **Backend**
 
