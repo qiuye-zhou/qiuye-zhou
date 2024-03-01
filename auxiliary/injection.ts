@@ -29,24 +29,24 @@ export function injection_footer(newCon: string) {
     )
 }
 
-export async function injection_SmallToys(newCon: string) {
-  const limit = source.SmallToys.limit
-  const SmallToys_list = source.SmallToys.random ? 
-    shuffle(source.SmallToys.address).slice(0, limit) 
-    : source.SmallToys.address.slice(0, limit)
+// export async function injection_SmallToys(newCon: string) {
+//   const limit = source.SmallToys.limit
+//   const SmallToys_list = source.SmallToys.random ? 
+//     shuffle(source.SmallToys.address).slice(0, limit) 
+//     : source.SmallToys.address.slice(0, limit)
   
-  const SmallToysDetail: GRepo[] = await Promise.all(
-    SmallToys_list.map(async (name) => {
-      const data = await request.get('/repos/' + name)
-      return data.data
-    }),
-  )
-  return newCon
-  .replace(
-    getcon('SMALL_TOYS_INJECT'),
-    generateHTML(SmallToysDetail),
-  ) as string
-}
+//   const SmallToysDetail: GRepo[] = await Promise.all(
+//     SmallToys_list.map(async (name) => {
+//       const data = await request.get('/repos/' + name)
+//       return data.data
+//     }),
+//   )
+//   return newCon
+//   .replace(
+//     getcon('SMALL_TOYS_INJECT'),
+//     generateHTML(SmallToysDetail),
+//   ) as string
+// }
 
 export async function injection_recent_star(newCon: string) {
     // 获取Star
