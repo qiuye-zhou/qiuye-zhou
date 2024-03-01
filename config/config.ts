@@ -1,17 +1,19 @@
 export const source = {
     OpenSource: [
+        'qiuye-zhou/qiuye-zhou',
+        'qiuye-zhou/qiuye-robot',
         'qiuye-zhou/use-aid',
     ],
-    SmallToys: {
-        limit: 5,
-        random: true,
-        address: [
-            'qiuye-zhou/qiuye-zhou',
-            'qiuye-zhou/qiuye-robot',
-            'qiuye-zhou/qiuye-website',
-            'qiuye-zhou/todolist'
-        ]
-    },
+    // SmallToys: {
+    //     limit: 5,
+    //     random: true,
+    //     address: [
+    //         'qiuye-zhou/qiuye-zhou',
+    //         'qiuye-zhou/qiuye-robot',
+    //         'qiuye-zhou/qiuye-website',
+    //         'qiuye-zhou/todolist'
+    //     ]
+    // },
 }
 
 export const github = {
