@@ -30,9 +30,9 @@
 
 **最近Star了**
 
-<ul><li><a href=https://github.com/tailwindlabs/headlessui>tailwindlabs/headlessui</a><p>Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.</p></li><li><a href=https://github.com/7kms/react-illustration-series>7kms/react-illustration-series</a><p>图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.</p></li><li><a href=https://github.com/codecrafters-io/build-your-own-x>codecrafters-io/build-your-own-x</a><p>Master programming by recreating your favorite technologies from scratch.</p></li><li><a href=https://github.com/remarkjs/react-markdown>remarkjs/react-markdown</a><p>Markdown component for React</p></li><li><a href=https://github.com/ruanyf/weekly>ruanyf/weekly</a><p>科技爱好者周刊，每周五发布</p></li></ul>
+<ul><li><a href=https://github.com/krahets/hello-algo>krahets/hello-algo</a><p>《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing</p></li><li><a href=https://github.com/tailwindlabs/headlessui>tailwindlabs/headlessui</a><p>Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.</p></li><li><a href=https://github.com/7kms/react-illustration-series>7kms/react-illustration-series</a><p>图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.</p></li><li><a href=https://github.com/codecrafters-io/build-your-own-x>codecrafters-io/build-your-own-x</a><p>Master programming by recreating your favorite technologies from scratch.</p></li><li><a href=https://github.com/remarkjs/react-markdown>remarkjs/react-markdown</a><p>Markdown component for React</p></li></ul>
 
 ------------
 
 <p align=center><strong>如果你热爱生活就不要浪费时间，因为时间组成了生活。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/4/24, 8:43 AM<br>下一次刷新：3/5/24, 8:43 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/5/24, 8:43 AM<br>下一次刷新：3/6/24, 8:43 AM</p>
