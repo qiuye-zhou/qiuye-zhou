@@ -30,9 +30,9 @@
 
 **最近Star了**
 
-<ul><li><a href=https://github.com/surmon-china/nodepress>surmon-china/nodepress</a><p>🟢 RESTful API service for https://surmon.me blog, powered by @nestjs</p></li><li><a href=https://github.com/MaaXYZ/MaaFramework>MaaXYZ/MaaFramework</a><p>基于图像识别的自动化黑盒测试框架 | An automation black-box testing framework based on image recognition</p></li><li><a href=https://github.com/qiuye-zhou/Skd>qiuye-zhou/Skd</a><p>一个简单实现的桌宠</p></li><li><a href=https://github.com/EndlessCheng/codeforces-go>EndlessCheng/codeforces-go</a><p>算法竞赛模板库 by 灵茶山艾府 💭💡🎈</p></li><li><a href=https://github.com/krahets/hello-algo>krahets/hello-algo</a><p>《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing</p></li></ul>
+<ul><li><a href=https://github.com/renpy/renpy>renpy/renpy</a><p>The Ren'Py Visual Novel Engine</p></li><li><a href=https://github.com/surmon-china/nodepress>surmon-china/nodepress</a><p>🟢 RESTful API service for https://surmon.me blog, powered by @nestjs</p></li><li><a href=https://github.com/MaaXYZ/MaaFramework>MaaXYZ/MaaFramework</a><p>基于图像识别的自动化黑盒测试框架 | An automation black-box testing framework based on image recognition</p></li><li><a href=https://github.com/qiuye-zhou/Skd>qiuye-zhou/Skd</a><p>一个简单实现的桌宠</p></li><li><a href=https://github.com/EndlessCheng/codeforces-go>EndlessCheng/codeforces-go</a><p>算法竞赛模板库 by 灵茶山艾府 💭💡🎈</p></li></ul>
 
 ------------
 
 <p align=center><strong>如果你热爱生活就不要浪费时间，因为时间组成了生活。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/3/24, 8:51 AM<br>下一次刷新：7/4/24, 8:51 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/26/25, 8:16 PM<br>下一次刷新：2/27/25, 8:16 PM</p>
