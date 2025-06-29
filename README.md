@@ -30,9 +30,9 @@
 
 **最近Star了**
 
-<ul><li><a href=https://github.com/renpy/renpy>renpy/renpy</a><p>The Ren'Py Visual Novel Engine</p></li><li><a href=https://github.com/surmon-china/nodepress>surmon-china/nodepress</a><p>🟢 RESTful API service for https://surmon.me blog, powered by @nestjs</p></li><li><a href=https://github.com/MaaXYZ/MaaFramework>MaaXYZ/MaaFramework</a><p>基于图像识别的自动化黑盒测试框架 | An automation black-box testing framework based on image recognition</p></li><li><a href=https://github.com/qiuye-zhou/Skd>qiuye-zhou/Skd</a><p>一个简单实现的桌宠</p></li><li><a href=https://github.com/EndlessCheng/codeforces-go>EndlessCheng/codeforces-go</a><p>算法竞赛模板库 by 灵茶山艾府 💭💡🎈</p></li></ul>
+<ul><li><a href=https://github.com/yangzongzhuan/RuoYi-Vue3>yangzongzhuan/RuoYi-Vue3</a><p>:tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统</p></li><li><a href=https://github.com/renpy/renpy>renpy/renpy</a><p>The Ren'Py Visual Novel Engine</p></li><li><a href=https://github.com/surmon-china/nodepress>surmon-china/nodepress</a><p>🟢 RESTful API service for https://surmon.me blog, powered by @nestjs</p></li><li><a href=https://github.com/MaaXYZ/MaaFramework>MaaXYZ/MaaFramework</a><p>基于图像识别的自动化黑盒测试框架 | An automation black-box testing framework based on image recognition</p></li><li><a href=https://github.com/qiuye-zhou/Skd>qiuye-zhou/Skd</a><p>一个简单实现的桌宠</p></li></ul>
 
 ------------
 
 <p align=center><strong>如果你热爱生活就不要浪费时间，因为时间组成了生活。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/28/25, 9:09 AM<br>下一次刷新：6/29/25, 9:09 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/29/25, 9:19 AM<br>下一次刷新：6/30/25, 9:19 AM</p>
