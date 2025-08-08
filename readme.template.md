@@ -2,6 +2,10 @@
 
 一个热衷于探索全栈开发新事物的初学者。
 
+<img width="500px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=qiuye-zhou&count_private=true&show_icons=true&hide=issues,prs"/>
+
+<img width="500px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiuye-zhou&count_private=true&show_icons=true&layout=compact"/>
+
 具备以下技能：
 
 **Web**
