@@ -2,6 +2,10 @@
 
 一个热衷于探索全栈开发新事物的初学者。
 
+<img width="500px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=qiuye-zhou&count_private=true&show_icons=true&hide=issues,prs"/>
+
+<img width="500px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiuye-zhou&count_private=true&show_icons=true&layout=compact"/>
+
 具备以下技能：
 
 **Web**
@@ -35,4 +39,4 @@
 ------------
 
 <p align=center><strong>如果你热爱生活就不要浪费时间，因为时间组成了生活。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：8/8/25, 9:17 AM<br>下一次刷新：8/9/25, 9:17 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：8/8/25, 5:31 PM<br>下一次刷新：8/9/25, 5:31 PM</p>
