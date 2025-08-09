@@ -2,27 +2,27 @@
 
 一个热衷于探索全栈开发新事物的初学者。
 
-<img width="500px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=qiuye-zhou&count_private=true&show_icons=true&hide=issues,prs"/>
+<img width="520px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=qiuye-zhou&count_private=true&show_icons=true&hide=issues,prs"/>
 
-<img width="500px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiuye-zhou&count_private=true&show_icons=true&layout=compact"/>
+<img width="520px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiuye-zhou&count_private=true&show_icons=true&layout=compact"/>
 
 具备以下技能：
 
 **Web**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,tailwind,windicss,sass,vite,nextjs,nuxtjs,jest,rollupjs&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,tailwind,windicss,sass,pinia,vite,jquery,nextjs,nuxtjs,jest,rollupjs&perline=10)](https://skillicons.dev)
 
 **Backend**
 
 [![My Skills](https://skillicons.dev/icons?i=nestjs,express,nodejs,mysql,mongodb,redis&perline=10)](https://skillicons.dev)
 
-**Other languages**
+**Other languages(Part slowly forgotten)**
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,java&perline=10)](https://skillicons.dev)
 
 **DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,visualstudio,git,stackoverflow,githubactions&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,visualstudio,git,gitlab,stackoverflow,pnpm,githubactions&perline=10)](https://skillicons.dev)
 
 ------------
 
