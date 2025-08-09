@@ -34,9 +34,9 @@
 
 **最近Star了**
 
-<ul><li><a href=https://github.com/vbenjs/vue-vben-admin>vbenjs/vue-vben-admin</a><p>A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!</p></li><li><a href=https://github.com/qiuye-zhou/mini-webpack>qiuye-zhou/mini-webpack</a></li><li><a href=https://github.com/yangzongzhuan/RuoYi-Vue3>yangzongzhuan/RuoYi-Vue3</a><p>:tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统</p></li><li><a href=https://github.com/renpy/renpy>renpy/renpy</a><p>The Ren'Py Visual Novel Engine</p></li><li><a href=https://github.com/surmon-china/nodepress>surmon-china/nodepress</a><p>🟢 RESTful API service for https://surmon.me blog, powered by @nestjs</p></li></ul>
+<ul><li><a href=https://github.com/qiuye-zhou/mini-promise>qiuye-zhou/mini-promise</a></li><li><a href=https://github.com/qiuye-zhou/CampusNewsWeb>qiuye-zhou/CampusNewsWeb</a><p>Campus News web</p></li><li><a href=https://github.com/qiuye-zhou/CampusNewsServer>qiuye-zhou/CampusNewsServer</a><p>Campus News Server</p></li><li><a href=https://github.com/vbenjs/vue-vben-admin>vbenjs/vue-vben-admin</a><p>A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!</p></li><li><a href=https://github.com/qiuye-zhou/mini-webpack>qiuye-zhou/mini-webpack</a></li></ul>
 
 ------------
 
 <p align=center><strong>如果你热爱生活就不要浪费时间，因为时间组成了生活。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：8/8/25, 5:31 PM<br>下一次刷新：8/9/25, 5:31 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：8/9/25, 9:11 AM<br>下一次刷新：8/10/25, 9:11 AM</p>
