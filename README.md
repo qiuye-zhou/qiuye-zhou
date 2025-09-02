@@ -12,25 +12,25 @@
   </tr>
 </table>
 
-<img align="right" width="520px" alt="GitHub Stats" src="https://leetcard.jacoblin.cool/qiu-xie-4ds?theme=light&font=Rasa&site=cn"/>
+<img width="520px" alt="GitHub Stats" src="https://leetcard.jacoblin.cool/qiu-xie-4ds?theme=light&font=Rasa&site=cn"/>
 
 具备以下技能：
 
 **Web**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,tailwind,windicss,sass,pinia,vite,jquery,nextjs,nuxtjs,jest,rollupjs&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,tailwind,windicss,sass,pinia,vite,jquery,nextjs,nuxtjs,jest,rollupjs&perline=10)](https://skillicons.dev)
 
 **Backend**
 
-[![My Skills](https://skillicons.dev/icons?i=nestjs,express,nodejs,mysql,mongodb,redis&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,express,nodejs,mysql,mongodb,redis&perline=10)](https://skillicons.dev)
 
 **Other languages(Part slowly forgotten)**
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,java&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,java&perline=10)](https://skillicons.dev)
 
 **DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,visualstudio,git,gitlab,stackoverflow,pnpm,githubactions&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,visualstudio,git,gitlab,stackoverflow,pnpm,githubactions&perline=10)](https://skillicons.dev)
 
 ------------
 
@@ -47,4 +47,4 @@
 ------------
 
 <p align=center><strong>如果你热爱生活就不要浪费时间，因为时间组成了生活。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/2/25, 2:46 PM<br>下一次刷新：9/3/25, 2:46 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/2/25, 2:50 PM<br>下一次刷新：9/3/25, 2:50 PM</p>
