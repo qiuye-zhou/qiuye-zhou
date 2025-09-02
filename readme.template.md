@@ -12,25 +12,25 @@
   </tr>
 </table>
 
-<img align="right" width="520px" alt="GitHub Stats" src="https://leetcard.jacoblin.cool/qiu-xie-4ds?theme=light&font=Rasa&site=cn"/>
+<img width="520px" alt="GitHub Stats" src="https://leetcard.jacoblin.cool/qiu-xie-4ds?theme=light&font=Rasa&site=cn"/>
 
 具备以下技能：
 
 **Web**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,tailwind,windicss,sass,pinia,vite,jquery,nextjs,nuxtjs,jest,rollupjs&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,tailwind,windicss,sass,pinia,vite,jquery,nextjs,nuxtjs,jest,rollupjs&perline=10)](https://skillicons.dev)
 
 **Backend**
 
-[![My Skills](https://skillicons.dev/icons?i=nestjs,express,nodejs,mysql,mongodb,redis&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,express,nodejs,mysql,mongodb,redis&perline=10)](https://skillicons.dev)
 
 **Other languages(Part slowly forgotten)**
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,java&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,java&perline=10)](https://skillicons.dev)
 
 **DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,visualstudio,git,gitlab,stackoverflow,pnpm,githubactions&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,visualstudio,git,gitlab,stackoverflow,pnpm,githubactions&perline=10)](https://skillicons.dev)
 
 ------------
 
