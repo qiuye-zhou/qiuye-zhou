@@ -42,9 +42,9 @@
 
 **最近Star了**
 
-<ul><li><a href=https://github.com/BetaSu/just-react>BetaSu/just-react</a><p>「React技术揭秘」 一本自顶向下的React源码分析书</p></li><li><a href=https://github.com/qiuye-zhou/Pmims_Server>qiuye-zhou/Pmims_Server</a><p>Pmims服务端(Node，Express，Mysql)</p></li><li><a href=https://github.com/qiuye-zhou/Pmims>qiuye-zhou/Pmims</a><p>Pmims(Vue3,vite,pinia,VueRouter)</p></li><li><a href=https://github.com/qiuye-zhou/mini-promise>qiuye-zhou/mini-promise</a></li><li><a href=https://github.com/qiuye-zhou/CampusNewsWeb>qiuye-zhou/CampusNewsWeb</a><p>Campus News web</p></li></ul>
+<ul><li><a href=https://github.com/hoppscotch/hoppscotch>hoppscotch/hoppscotch</a><p>Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)</p></li><li><a href=https://github.com/BetaSu/just-react>BetaSu/just-react</a><p>「React技术揭秘」 一本自顶向下的React源码分析书</p></li><li><a href=https://github.com/qiuye-zhou/Pmims_Server>qiuye-zhou/Pmims_Server</a><p>Pmims服务端(Node，Express，Mysql)</p></li><li><a href=https://github.com/qiuye-zhou/Pmims>qiuye-zhou/Pmims</a><p>Pmims(Vue3,vite,pinia,VueRouter)</p></li><li><a href=https://github.com/qiuye-zhou/mini-promise>qiuye-zhou/mini-promise</a></li></ul>
 
 ------------
 
 <p align=center><strong>如果你热爱生活就不要浪费时间，因为时间组成了生活。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/5/25, 9:03 AM<br>下一次刷新：9/6/25, 9:03 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/6/25, 9:02 AM<br>下一次刷新：9/7/25, 9:02 AM</p>
