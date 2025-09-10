@@ -3,8 +3,8 @@
 <table>
   <tr>
     <td align="center">
-      <img width="520px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=qiuye-zhou&count_private=true&show_icons=true"/>
-      <img width="520px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiuye-zhou&count_private=true&show_icons=true&layout=compact"/>
+      <img width="500px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=qiuye-zhou&count_private=true&show_icons=true"/>
+      <img width="500px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiuye-zhou&count_private=true&show_icons=true&layout=compact"/>
     </td>
     <td align="center">
       <img width="680px" alt="GitHub Stats" src="https://s21.ax1x.com/2025/08/30/pVcVrQO.png"/>
