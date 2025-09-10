@@ -3,8 +3,8 @@
 <table>
   <tr>
     <td align="center">
-      <img width="520px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=qiuye-zhou&count_private=true&show_icons=true"/>
-      <img width="520px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiuye-zhou&count_private=true&show_icons=true&layout=compact"/>
+      <img width="500px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=qiuye-zhou&count_private=true&show_icons=true"/>
+      <img width="500px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiuye-zhou&count_private=true&show_icons=true&layout=compact"/>
     </td>
     <td align="center">
       <img width="680px" alt="GitHub Stats" src="https://s21.ax1x.com/2025/08/30/pVcVrQO.png"/>
@@ -47,4 +47,4 @@
 ------------
 
 <p align=center><strong>如果你热爱生活就不要浪费时间，因为时间组成了生活。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/10/25, 10:49 AM<br>下一次刷新：9/11/25, 10:49 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/10/25, 1:44 PM<br>下一次刷新：9/11/25, 1:44 PM</p>
