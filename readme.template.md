@@ -12,7 +12,7 @@
   </tr>
 </table>
 
-<img width="500px" alt="GitHub Stats" src="https://leetcard.jacoblin.cool/qiu-xie-4ds?theme=light&font=Rasa&site=cn"/>
+<img width="500px" alt="GitHub Stats" src="https://leetcard.jacoblin.cool/qiuye-zh?theme=light&font=Rasa&site=cn"/>
 
 具备以下技能：
 
