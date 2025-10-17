@@ -18,7 +18,7 @@
 
 **Web**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,tailwind,windicss,sass,pinia,vite,jquery,nextjs,nuxtjs,jest,rollupjs&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,tailwind,windicss,sass,pinia,vite,jquery,nextjs,nuxtjs,jest,rollupjs,electron&perline=10)](https://skillicons.dev)
 
 **Backend**
 
