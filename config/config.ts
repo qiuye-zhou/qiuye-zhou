@@ -3,6 +3,8 @@ export const source = {
         'qiuye-zhou/qiuye-zhou',
         'qiuye-zhou/qiuye-robot',
         'qiuye-zhou/use-aid',
+        'qiuye-zhou/Redirector',
+        'qiuye-zhou/qiuyetab',
     ],
     // SmallToys: {
     //     limit: 5,
