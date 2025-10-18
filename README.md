@@ -42,9 +42,9 @@
 
 **最近Star了**
 
-<ul><li><a href=https://github.com/qiuye-zhou/web-water-mark>qiuye-zhou/web-water-mark</a><p>快捷的给网站添加自定义水印</p></li><li><a href=https://github.com/qiuye-zhou/electron-vue-template>qiuye-zhou/electron-vue-template</a><p>electron、vue3、vite配合开发初始模板</p></li><li><a href=https://github.com/bytedance/UI-TARS>bytedance/UI-TARS</a></li><li><a href=https://github.com/moeru-ai/airi>moeru-ai/airi</a><p>💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.</p></li><li><a href=https://github.com/hoppscotch/hoppscotch>hoppscotch/hoppscotch</a><p>Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)</p></li></ul>
+<ul><li><a href=https://github.com/qiuye-zhou/vue-error-capture>qiuye-zhou/vue-error-capture</a><p>一个基于Vue3的错误捕获插件，使用IndexDB作为本地存储数据库，提供完整的错误监控和管理功能。</p></li><li><a href=https://github.com/qiuye-zhou/web-water-mark>qiuye-zhou/web-water-mark</a><p>快捷的给网站添加自定义水印</p></li><li><a href=https://github.com/qiuye-zhou/vue-el-laboratory>qiuye-zhou/vue-el-laboratory</a><p>Vue基与el组件库二次封装及工具方法集合实验</p></li><li><a href=https://github.com/qiuye-zhou/tech-practice-lab>qiuye-zhou/tech-practice-lab</a></li><li><a href=https://github.com/qiuye-zhou/electron-vue-template>qiuye-zhou/electron-vue-template</a><p>electron、vue3、vite配合开发初始模板</p></li></ul>
 
 ------------
 
 <p align=center><strong>如果你热爱生活就不要浪费时间，因为时间组成了生活。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/17/25, 12:17 PM<br>下一次刷新：10/18/25, 12:17 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/18/25, 9:02 AM<br>下一次刷新：10/19/25, 9:02 AM</p>
