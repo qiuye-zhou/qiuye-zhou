@@ -1,11 +1,15 @@
 export const source = {
-    OpenSource: [
-        'qiuye-zhou/qiuye-zhou',
-        'qiuye-zhou/qiuye-robot',
-        'qiuye-zhou/qy-vscode-plugin',
-        'qiuye-zhou/Redirector',
-        'qiuye-zhou/qiuyetab',
-    ],
+    OpenSource: {
+        limit: 5,
+        random: true,
+        address: [
+            'qiuye-zhou/qiuye-zhou',
+            'qiuye-zhou/qiuye-robot',
+            'qiuye-zhou/qy-vscode-plugin',
+            'qiuye-zhou/Redirector',
+            'qiuye-zhou/qiuyetab',
+        ]
+    }
     // SmallToys: {
     //     limit: 5,
     //     random: true,

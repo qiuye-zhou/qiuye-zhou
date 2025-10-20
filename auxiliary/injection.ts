@@ -8,10 +8,10 @@ import { generateHTML, generateOpenSourceProjectHtml, generateRepoHTML, getcon, 
 export function injection_footer(newCon: string) {
     const now = new Date()
     const next = dayjs().add(Interval_time, 'h').toDate()
-    
+
     return newCon.replace(
       getcon('FOOTER'),
-      mini` 
+      mini`
     <p align="center">此文件 <i>README</i> <b>间隔 ${Interval_time} 小时</b>自动刷新生成！
     </br>
     刷新于：${now.toLocaleString(undefined, {
@@ -31,10 +31,10 @@ export function injection_footer(newCon: string) {
 
 // export async function injection_SmallToys(newCon: string) {
 //   const limit = source.SmallToys.limit
-//   const SmallToys_list = source.SmallToys.random ? 
-//     shuffle(source.SmallToys.address).slice(0, limit) 
+//   const SmallToys_list = source.SmallToys.random ?
+//     shuffle(source.SmallToys.address).slice(0, limit)
 //     : source.SmallToys.address.slice(0, limit)
-  
+
 //   const SmallToysDetail: GRepo[] = await Promise.all(
 //     SmallToys_list.map(async (name) => {
 //       const data = await request.get('/repos/' + name)
@@ -52,7 +52,7 @@ export async function injection_recent_star(newCon: string) {
     // 获取Star
     const star: any[] = await request
     .get('/users/' + github.name + '/starred')
-    .then((data) => data.data)
+    .then((data: { data: any }) => data.data)
 
     const topStar5 = star
       .slice(0, 5)
@@ -69,8 +69,13 @@ export async function injection_recent_star(newCon: string) {
 }
 
 export async function open_source_project(newCon: string) {
+  const limit = source.OpenSource.limit
+  const OpenSource_list = source.OpenSource.random ?
+    shuffle(source.OpenSource.address).slice(0, limit)
+    : source.OpenSource.address.slice(0, limit)
+
   const OpenSourceRrojectDetail: GRepo[] = await Promise.all(
-    source.OpenSource.map(async (name) => {
+    OpenSource_list.map(async (name: string) => {
       const data = await request.get('/repos/' + name)
       return data.data
     }),
