@@ -10,7 +10,7 @@ const request = axios.create({
   })
 })
 
-request.interceptors.response.use(undefined, (err) => {
+request.interceptors.response.use(undefined, (err: { message: any }) => {
     console.log(err.message)
     return Promise.reject(err)
 })

@@ -19,7 +19,6 @@ export function mini(html: TemplateStringsArray, ...args: any[]) {
 }
 
 //生成 `以往学习过程写的一些简单东西` 结构
-
 export function generateHTML(list: GRepo[]) {
   const tbody = list.reduce((str, cur) =>str +` <tr>
   <td><a href="${cur.html_url}" target="_blank"><b>
