@@ -18,7 +18,7 @@
 
 **Web**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,tailwind,windicss,sass,pinia,vite,jquery,nextjs,nuxtjs,jest,rollupjs,electron&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,tailwind,windicss,sass,pinia,vite,rollupjs,nextjs,nuxtjs,electron,jquery,jest&perline=10)](https://skillicons.dev)
 
 **Backend**
 
@@ -26,7 +26,7 @@
 
 **Other languages(Part slowly forgotten)**
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,java&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,java&perline=10)](https://skillicons.dev)
 
 **DevOps**
 
