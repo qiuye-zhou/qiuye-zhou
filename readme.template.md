@@ -28,7 +28,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,python,java&perline=10)](https://skillicons.dev)
 
-**DevOps**nginx
+**DevOps**
 
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,visualstudio,git,gitlab,md,stackoverflow,pnpm,githubactions,nginx,windows,linux&perline=10)](https://skillicons.dev)
 
