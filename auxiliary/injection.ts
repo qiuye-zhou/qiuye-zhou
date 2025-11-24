@@ -9,22 +9,24 @@ export function injection_footer(newCon: string) {
     const now = new Date()
     const next = dayjs().add(Interval_time, 'h').toDate()
 
+    const formatOptions: Intl.DateTimeFormatOptions = {
+        year: 'numeric',
+        month: '2-digit',
+        day: '2-digit',
+        hour: '2-digit',
+        minute: '2-digit',
+        hour12: false,
+        timeZone
+    }
+
     return newCon.replace(
       getcon('FOOTER'),
       mini`
     <p align="center">此文件 <i>README</i> <b>间隔 ${Interval_time} 小时</b>自动刷新生成！
-    </br>
-    刷新于：${now.toLocaleString(undefined, {
-      timeStyle: 'short',
-      dateStyle: 'short',
-      timeZone,
-    })}
-    <br/>
-    下一次刷新：${next.toLocaleString(undefined, {
-      timeStyle: 'short',
-      dateStyle: 'short',
-      timeZone,
-    })}</p>
+    <br>
+    刷新于：${now.toLocaleString(undefined, formatOptions)}
+    <br>
+    下一次刷新：${next.toLocaleString(undefined, formatOptions)}</p>
     `,
     )
 }
