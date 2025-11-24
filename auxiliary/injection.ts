@@ -8,26 +8,26 @@ import { generateHTML, generateOpenSourceProjectHtml, generateRepoHTML, getcon, 
 export function injection_footer(newCon: string) {
     const now = new Date()
     const next = dayjs().add(Interval_time, 'h').toDate()
-
-    const formatOptions: Intl.DateTimeFormatOptions = {
-        year: 'numeric',
-        month: '2-digit',
-        day: '2-digit',
-        hour: '2-digit',
-        minute: '2-digit',
-        hour12: false,
-        timeZone
+    const formatDate = (date: Date) => {
+        return new Intl.DateTimeFormat('zh-CN', {
+            year: 'numeric',
+            month: '2-digit',
+            day: '2-digit',
+            hour: '2-digit',
+            minute: '2-digit',
+            hour12: false
+        }).format(date)
     }
 
     return newCon.replace(
-      getcon('FOOTER'),
-      mini`
+        getcon('FOOTER'),
+        mini`
     <p align="center">此文件 <i>README</i> <b>间隔 ${Interval_time} 小时</b>自动刷新生成！
     <br>
-    刷新于：${now.toLocaleString(undefined, formatOptions)}
+    刷新于：${formatDate(now)}
     <br>
-    下一次刷新：${next.toLocaleString(undefined, formatOptions)}</p>
-    `,
+    下一次刷新：${formatDate(next)}</p>
+    `
     )
 }
 
