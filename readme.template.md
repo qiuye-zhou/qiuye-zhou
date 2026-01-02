@@ -7,7 +7,7 @@
       <img width="500px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiuye-zhou&count_private=true&show_icons=true&layout=compact"/>
     </td>
     <td align="center">
-      <img width="700px" alt="GitHub Stats" src="https://s21.ax1x.com/2025/08/30/pVcVrQO.png"/>
+      <img width="500px" alt="GitHub Stats" src="https://s21.ax1x.com/2025/08/30/pVcVrQO.png"/>
     </td>
   </tr>
 </table>
