@@ -30,7 +30,7 @@
 
 **DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,visualstudio,git,gitlab,md,stackoverflow,pnpm,npm,githubactions,postman,nginx,windows,linux,ubuntu&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,visualstudio,git,gitlab,md,stackoverflow,pnpm,npm,githubactions,postman,nginx,docker,windows,linux,ubuntu&perline=10)](https://skillicons.dev)
 
 ------------
 
