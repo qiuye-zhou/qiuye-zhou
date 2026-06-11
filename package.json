@@ -23,7 +23,7 @@
     "dayjs": "1.11.7",
     "html-minifier": "4.0.0",
     "lodash": "4.17.21",
-    "retry-axios": "3.0.0",
+    "retry-axios": "3.2.1",
     "ts-node": "10.9.1",
     "typescript": "5.0.4"
   },
