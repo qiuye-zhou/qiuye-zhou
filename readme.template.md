@@ -16,19 +16,19 @@
 
 具备以下技能：
 
-**Web**
+**Frontend**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,tailwind,windicss,sass,pinia,vite,electron,webpack,rollupjs,nextjs,nuxtjs,bootstrap,jquery,jest&perline=10)](https://skillicons.dev)
+[![My Skills](/icons?i=html,css,js,ts,vue,react,tailwind,windicss,sass,pinia,vite,electron,webpack,rollupjs,nextjs,nuxtjs,bootstrap,jquery,jest&perline=10)](https://skillicons.dev)
 
 **Backend**
 
 [![My Skills](https://skillicons.dev/icons?i=nestjs,express,nodejs,mysql,mongodb,redis,sqlite&perline=10)](https://skillicons.dev)
 
-**Other languages(Part slowly forgotten)**
+**Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,java&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,java,qt&perline=10)](https://skillicons.dev)
 
-**DevOps**
+**DevOps & Tools**
 
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,visualstudio,git,gitlab,md,stackoverflow,pnpm,npm,githubactions,postman,nginx,docker,windows,linux,ubuntu&perline=10)](https://skillicons.dev)
 
