@@ -7,7 +7,7 @@
       <img width="500px" alt="GitHub Stats" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=qiuye-zhou&count_private=true&show_icons=true&layout=compact"/>
     </td>
     <td align="center">
-      <img width="500px" alt="GitHub Stats" src="https://s21.ax1x.com/2025/08/30/pVcVrQO.png"/>
+      <img width="520px" alt="GitHub Stats" src="https://s21.ax1x.com/2025/08/30/pVcVrQO.png"/>
     </td>
   </tr>
 </table>
@@ -18,7 +18,7 @@
 
 **Frontend**
 
-[![My Skills](/icons?i=html,css,js,ts,vue,react,tailwind,windicss,sass,pinia,vite,electron,webpack,rollupjs,nextjs,nuxtjs,bootstrap,jquery,jest&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,tailwind,windicss,sass,pinia,vite,electron,webpack,rollupjs,nextjs,nuxtjs,bootstrap,jquery,jest&perline=10)](https://skillicons.dev)
 
 **Backend**
 
