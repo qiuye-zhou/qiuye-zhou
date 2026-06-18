@@ -3,7 +3,7 @@ import { request } from './request'
 import { shuffle } from 'lodash'
 import { Interval_time, timeZone, source, github } from "../config/config"
 import { GRepo } from '../types'
-import { generateHTML, generateOpenSourceProjectHtml, generateRepoHTML, getcon, mini } from "./util"
+import { generateOpenSourceProjectHtml, generateRepoHTML, getcon, mini } from "./util"
 
 export function injection_footer(newCon: string) {
     const now = new Date()
@@ -47,7 +47,7 @@ export function injection_footer(newCon: string) {
 //   return newCon
 //   .replace(
 //     getcon('SMALL_TOYS_INJECT'),
-//     generateHTML(SmallToysDetail),
+//     mallToysDetail),
 //   ) as string
 // }
 

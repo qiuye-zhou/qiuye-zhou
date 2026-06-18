@@ -8,6 +8,7 @@ export const source = {
             'qiuye-zhou/qy-vscode-plugin',
             'qiuye-zhou/Redirector',
             'qiuye-zhou/qiuyetab',
+            'qiuye-zhou/NovelStock',
         ]
     }
     // SmallToys: {
