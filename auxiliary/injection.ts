@@ -84,6 +84,8 @@ export async function open_source_project(newCon: string) {
     }),
   )
 
+  OpenSourceRrojectDetail.sort((a, b) => b.stargazers_count - a.stargazers_count)
+
   return newCon.replace(
     getcon('OPEN_SOURCE_PROJECT'),
     generateOpenSourceProjectHtml(OpenSourceRrojectDetail)
