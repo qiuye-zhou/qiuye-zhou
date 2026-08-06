@@ -22,15 +22,15 @@
 
 **Backend**
 
-[![My Skills](https://skillicons.dev/icons?i=nestjs,express,nodejs,mysql,mongodb,redis,sqlite&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,express,nodejs,java,spring,mysql,mongodb,redis,sqlite&perline=10)](https://skillicons.dev)
 
-**Languages**
+**Languages and other**
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,java,qt&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,qt&perline=10)](https://skillicons.dev)
 
 **DevOps & Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,visualstudio,git,gitlab,md,stackoverflow,pnpm,npm,githubactions,postman,nginx,docker,windows,linux,ubuntu&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,visualstudio,idea,git,gitlab,md,stackoverflow,pnpm,npm,githubactions,postman,nginx,docker,windows,linux,ubuntu&perline=10)](https://skillicons.dev)
 
 ------------
 
