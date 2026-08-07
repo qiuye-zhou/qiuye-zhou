@@ -16,21 +16,39 @@
 
 具备以下技能：
 
-**Frontend**
+### Frontend Core
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,angular,tailwind,windicss,sass,pinia,vite,electron,webpack,rollupjs,nextjs,nuxtjs,bootstrap,jquery,jest&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,angular,nextjs,nuxtjs,pinia,jest&perline=10)](https://skillicons.dev)
 
-**Backend**
 
-[![My Skills](https://skillicons.dev/icons?i=nestjs,express,nodejs,java,spring,mysql,mongodb,redis,sqlite&perline=10)](https://skillicons.dev)
+### Backend Core
 
-**Languages and other**
+[![My Skills](https://skillicons.dev/icons?i=nestjs,express,nodejs,java,spring&perline=10)](https://skillicons.dev)
+
+
+### Engineering & Build
+
+[![My Skills](https://skillicons.dev/icons?i=vite,webpack,rollupjs,pnpm,npm,electron,docker,nginx,githubactions&perline=10)](https://skillicons.dev)
+
+
+### UI & Styling
+
+[![My Skills](https://skillicons.dev/icons?i=tailwind,windicss,sass,bootstrap,jquery&perline=10)](https://skillicons.dev)
+
+
+### Database & Middleware
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlite&perline=10)](https://skillicons.dev)
+
+
+### System Languages
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,python,qt&perline=10)](https://skillicons.dev)
 
-**DevOps & Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,visualstudio,idea,git,gitlab,md,stackoverflow,pnpm,npm,githubactions,postman,nginx,docker,windows,linux,ubuntu&perline=10)](https://skillicons.dev)
+### Dev Environment & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,git,github,gitlab,stackoverflow,md,postman,windows,linux,ubuntu&perline=10)](https://skillicons.dev)
 
 ------------
 
