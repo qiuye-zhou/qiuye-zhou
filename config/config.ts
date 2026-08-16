@@ -6,6 +6,7 @@ export const source = {
             'qiuye-zhou/qiuye-zhou',
             'qiuye-zhou/qiuye-robot',
             'qiuye-zhou/qy-vscode-plugin',
+            'qiuye-zhou/AkiDesk',
             'qiuye-zhou/Redirector',
             'qiuye-zhou/qiuyetab',
             'qiuye-zhou/NovelStock',
