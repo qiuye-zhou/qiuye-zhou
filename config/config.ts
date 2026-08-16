@@ -3,7 +3,6 @@ export const source = {
         limit: 5,
         random: true,
         address: [
-            'qiuye-zhou/qiuye-zhou',
             'qiuye-zhou/qiuye-robot',
             'qiuye-zhou/qy-vscode-plugin',
             'qiuye-zhou/AkiDesk',
