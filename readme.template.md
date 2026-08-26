@@ -43,7 +43,7 @@
 
 ### System Languages
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,qt&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,dart,qt&perline=10)](https://skillicons.dev)
 
 
 ### Dev Environment & Tools
