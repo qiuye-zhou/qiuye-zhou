@@ -28,7 +28,7 @@
 
 ### Engineering & Build
 
-[![My Skills](https://skillicons.dev/icons?i=vite,webpack,rollupjs,pnpm,npm,electron,docker,nginx,githubactions&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite,webpack,rollupjs,pnpm,npm,electron,flutter,docker,nginx,githubactions&perline=10)](https://skillicons.dev)
 
 
 ### UI & Styling
