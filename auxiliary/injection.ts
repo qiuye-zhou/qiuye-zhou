@@ -1,7 +1,7 @@
 import dayjs from "dayjs"
 import { request } from './request'
 import { shuffle } from 'lodash'
-import { Interval_time, timeZone, source, github } from "../config/config"
+import { Interval_time, timeZone, github } from "../config/config"
 import { GRepo } from '../types'
 import { generateOpenSourceProjectHtml, generateRepoHTML, getcon, mini } from "./util"
 
@@ -32,25 +32,6 @@ export function injection_footer(newCon: string) {
     )
 }
 
-// export async function injection_SmallToys(newCon: string) {
-//   const limit = source.SmallToys.limit
-//   const SmallToys_list = source.SmallToys.random ?
-//     shuffle(source.SmallToys.address).slice(0, limit)
-//     : source.SmallToys.address.slice(0, limit)
-
-//   const SmallToysDetail: GRepo[] = await Promise.all(
-//     SmallToys_list.map(async (name) => {
-//       const data = await request.get('/repos/' + name)
-//       return data.data
-//     }),
-//   )
-//   return newCon
-//   .replace(
-//     getcon('SMALL_TOYS_INJECT'),
-//     mallToysDetail),
-//   ) as string
-// }
-
 export async function injection_recent_star(newCon: string) {
     // 获取Star
     const star: any[] = await request
@@ -72,19 +53,19 @@ export async function injection_recent_star(newCon: string) {
 }
 
 export async function open_source_project(newCon: string) {
-  const limit = source.OpenSource.limit
-  const OpenSource_list = source.OpenSource.random ?
-    shuffle(source.OpenSource.address).slice(0, limit)
-    : source.OpenSource.address.slice(0, limit)
+  // 获取 stars 数量前十的项目
+  const { data: { items } } = await request.get('/search/repositories', {
+    params: {
+      q: `user:${github.name}`,
+      sort: 'stars',
+      order: 'desc',
+      per_page: 10,
+    },
+  })
 
-  const OpenSourceRrojectDetail: GRepo[] = await Promise.all(
-    OpenSource_list.map(async (name: string) => {
-      const data = await request.get('/repos/' + name)
-      return data.data
-    }),
-  )
-
-  OpenSourceRrojectDetail.sort((a, b) => b.stargazers_count - a.stargazers_count)
+  // 随机选择五个并按 stars 数量降序排序
+  const OpenSourceRrojectDetail: GRepo[] = shuffle(items).slice(0, 5)
+    .sort((a: GRepo, b: GRepo) => b.stargazers_count - a.stargazers_count)
 
   return newCon.replace(
     getcon('OPEN_SOURCE_PROJECT'),

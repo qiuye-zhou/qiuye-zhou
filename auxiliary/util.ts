@@ -53,34 +53,16 @@ export function generateRepoHTML<T extends GHItem>(item: T) {
 }
 
 export function generateOpenSourceProjectHtml<T extends GHItem>(list: T[]) {
-  const tbody = list.reduce(
+  const items = list.reduce(
     (str, cur) =>
       str +
-      ` <tr>
-      <td><a href="${cur.html_url}"><b>
-      ${cur.full_name}</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/${cur.full_name}?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/${cur.full_name}?style=flat-square&labelColor=343b41"/></td>
-      <td><a href="https://github.com/${cur.full_name}/issues" target="_blank"><img alt="Issues" src="https://img.shields.io/github/issues/${cur.full_name}?style=flat-square&labelColor=343b41"/></a></td>
-      <td><a href="https://github.com/${cur.full_name}/pulls" target="_blank"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/${cur.full_name}?style=flat-square&labelColor=343b41"/></a></td>
-      <td><a href="https://github.com/${cur.full_name}/commits" target="_blank"><img alt="Last Commits" src="https://img.shields.io/github/last-commit/${cur.full_name}?style=flat-square&labelColor=343b41"/></a></td>
-      </tr>`,
+      `<li><a href="${cur.html_url}"><b>${cur.full_name}</b></a> <img alt="Stars" src="https://img.shields.io/github/stars/${cur.full_name}?style=flat-square&labelColor=343b41"/>${
+        cur.description ? `<p>${cur.description}</p>` : ''
+      }</li>`,
     ``,
   )
 
-  return mini`<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-      <td><b>💡 Last Commit</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    ${tbody}
-  </tbody>
-  </table>`
+  return mini`<ul>
+    ${items}
+  </ul>`
 }

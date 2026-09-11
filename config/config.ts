@@ -1,28 +1,3 @@
-export const source = {
-    OpenSource: {
-        limit: 5,
-        random: true,
-        address: [
-            'qiuye-zhou/qiuye-robot',
-            'qiuye-zhou/qy-vscode-plugin',
-            'qiuye-zhou/AkiDesk',
-            'qiuye-zhou/Redirector',
-            'qiuye-zhou/qiuyetab',
-            'qiuye-zhou/NovelStock',
-        ]
-    }
-    // SmallToys: {
-    //     limit: 5,
-    //     random: true,
-    //     address: [
-    //         'qiuye-zhou/qiuye-zhou',
-    //         'qiuye-zhou/qiuye-robot',
-    //         'qiuye-zhou/qiuye-website',
-    //         'qiuye-zhou/todolist'
-    //     ]
-    // },
-}
-
 export const github = {
     name: 'qiuye-zhou',
 }
