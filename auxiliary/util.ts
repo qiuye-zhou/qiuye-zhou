@@ -56,7 +56,7 @@ export function generateOpenSourceProjectHtml<T extends GHItem>(list: T[]) {
   const items = list.reduce(
     (str, cur) =>
       str +
-      `<li><a href="${cur.html_url}"><b>${cur.full_name}</b></a> <img alt="Stars" src="https://img.shields.io/github/stars/${cur.full_name}?style=flat-square&labelColor=343b41"/>${
+      `<li><a href="${cur.html_url}"><b>${cur.full_name}</b></a> <img height="18" alt="Stars" src="https://img.shields.io/github/stars/${cur.full_name}?style=flat-square&labelColor=343b41"/>${
         cur.description ? `<p>${cur.description}</p>` : ''
       }</li>`,
     ``,
