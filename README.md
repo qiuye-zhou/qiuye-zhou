@@ -54,7 +54,7 @@
 
 **写的一些小东西**
 
-<ul><li><a href=https://github.com/qiuye-zhou/Redirector><b>qiuye-zhou/Redirector</b></a> <img height=18 alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/Redirector?style=flat-square&labelColor=343b41"><p>浏览器请求重定向调式插件</p></li><li><a href=https://github.com/qiuye-zhou/qiuye-codebase><b>qiuye-zhou/qiuye-codebase</b></a> <img height=18 alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-codebase?style=flat-square&labelColor=343b41"><p>初学写的一些项目归档</p></li><li><a href=https://github.com/qiuye-zhou/qy-vscode-plugin><b>qiuye-zhou/qy-vscode-plugin</b></a> <img height=18 alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qy-vscode-plugin?style=flat-square&labelColor=343b41"><p>vscode辅助插件</p></li><li><a href=https://github.com/qiuye-zhou/qiuye-robot><b>qiuye-zhou/qiuye-robot</b></a> <img height=18 alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-robot?style=flat-square&labelColor=343b41"><p>My QQ robot</p></li><li><a href=https://github.com/qiuye-zhou/codetool><b>qiuye-zhou/codetool</b></a> <img height=18 alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/codetool?style=flat-square&labelColor=343b41"><p>浏览器扩展，在任意页面通过右键菜单或工具栏图标打开独立工具面板，集中提供开发中常用的编码解码、格式转换和校验能力</p></li></ul>
+<ul><li><a href=https://github.com/qiuye-zhou/Redirector><b>qiuye-zhou/Redirector</b></a> <img height=18 alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/Redirector?style=flat-square&labelColor=343b41"><p>浏览器请求重定向调式插件</p></li><li><a href=https://github.com/qiuye-zhou/CampusNewsServer><b>qiuye-zhou/CampusNewsServer</b></a> <img height=18 alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/CampusNewsServer?style=flat-square&labelColor=343b41"><p>Campus News Server</p></li><li><a href=https://github.com/qiuye-zhou/qiuye-Handwriting><b>qiuye-zhou/qiuye-Handwriting</b></a> <img height=18 alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-Handwriting?style=flat-square&labelColor=343b41"><p>手写实现一些经典的代码、内置函数、常用的工具函数</p></li><li><a href=https://github.com/qiuye-zhou/todolist><b>qiuye-zhou/todolist</b></a> <img height=18 alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/todolist?style=flat-square&labelColor=343b41"><p>简约风格的todolist，使用本地存储</p></li><li><a href=https://github.com/qiuye-zhou/qy-vscode-plugin><b>qiuye-zhou/qy-vscode-plugin</b></a> <img height=18 alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qy-vscode-plugin?style=flat-square&labelColor=343b41"><p>vscode辅助插件</p></li></ul>
 
 ------------
 
@@ -65,4 +65,4 @@
 ------------
 
 <p align=center><strong>如果你热爱生活就不要浪费时间，因为时间组成了生活。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 168 小时</b>自动刷新生成！<br>刷新于：2026/09/12 11:28<br>下一次刷新：2026/09/19 11:28</p>
+<p align=center>此文件 <i>README</i> <b>间隔 168 小时</b>自动刷新生成！<br>刷新于：2026/09/14 11:37<br>下一次刷新：2026/09/21 11:37</p>
