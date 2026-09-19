@@ -16,53 +16,58 @@
 
 具备以下技能：
 
-### Frontend Core
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,angular,nextjs,nuxtjs,pinia,jest&perline=10)](https://skillicons.dev)
-
-
-### Backend Core
-
-[![My Skills](https://skillicons.dev/icons?i=nestjs,express,nodejs,java,spring&perline=10)](https://skillicons.dev)
-
-
-### Engineering & Build
-
-[![My Skills](https://skillicons.dev/icons?i=vite,webpack,rollupjs,pnpm,npm,electron,flutter,docker,nginx,githubactions&perline=10)](https://skillicons.dev)
-
-
-### UI & Styling
-
-[![My Skills](https://skillicons.dev/icons?i=tailwind,windicss,sass,bootstrap,jquery&perline=10)](https://skillicons.dev)
-
-
-### Database & Middleware
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlite&perline=10)](https://skillicons.dev)
-
-
-### System Languages
-
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,dart,qt&perline=10)](https://skillicons.dev)
-
-
-### Dev Environment & Tools
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,git,github,gitlab,stackoverflow,md,postman,windows,linux,ubuntu&perline=10)](https://skillicons.dev)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3 align="center">Frontend Core</h3>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,angular,nextjs,nuxtjs,pinia,jest&perline=10" alt="My Skills"/></a>
+    </td>
+    <td align="center" width="50%">
+      <h3 align="center">Backend Core</h3>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nestjs,express,nodejs,java,spring&perline=10" alt="My Skills"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3 align="center">Engineering & Build</h3>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vite,webpack,rollupjs,pnpm,npm,electron,flutter,docker,nginx,githubactions&perline=10" alt="My Skills"/></a>
+    </td>
+    <td align="center" width="50%">
+      <h3 align="center">UI & Styling</h3>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tailwind,windicss,sass,bootstrap,jquery&perline=10" alt="My Skills"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3 align="center">Database & Middleware</h3>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlite&perline=10" alt="My Skills"/></a>
+    </td>
+    <td align="center" width="50%">
+      <h3 align="center">System Languages</h3>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,c,python,dart,qt&perline=10" alt="My Skills"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h3 align="center">Dev Environment & Tools</h3>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,git,github,gitlab,stackoverflow,md,postman,windows,linux,ubuntu&perline=13" alt="My Skills"/></a>
+    </td>
+  </tr>
+</table>
 
 ------------
 
 **写的一些小东西**
 
-<ul><li><a href=https://github.com/qiuye-zhou/Redirector><b>qiuye-zhou/Redirector</b></a> <img height=16 alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/Redirector?style=flat-square&labelColor=343b41"><p>浏览器请求重定向调式插件</p></li><li><a href=https://github.com/qiuye-zhou/CampusNewsServer><b>qiuye-zhou/CampusNewsServer</b></a> <img height=16 alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/CampusNewsServer?style=flat-square&labelColor=343b41"><p>Campus News Server</p></li><li><a href=https://github.com/qiuye-zhou/qy-vscode-plugin><b>qiuye-zhou/qy-vscode-plugin</b></a> <img height=16 alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qy-vscode-plugin?style=flat-square&labelColor=343b41"><p>vscode辅助插件</p></li><li><a href=https://github.com/qiuye-zhou/qiuye-robot><b>qiuye-zhou/qiuye-robot</b></a> <img height=16 alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-robot?style=flat-square&labelColor=343b41"><p>My QQ robot</p></li><li><a href=https://github.com/qiuye-zhou/qiuyetab><b>qiuye-zhou/qiuyetab</b></a> <img height=16 alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuyetab?style=flat-square&labelColor=343b41"><p>浏览器新标签页插件</p></li></ul>
+<ul><li><a href=https://github.com/qiuye-zhou/CampusNewsServer><b>qiuye-zhou/CampusNewsServer</b></a> <img height=16 alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/CampusNewsServer?style=flat-square&labelColor=343b41"><p>Campus News Server</p></li><li><a href=https://github.com/qiuye-zhou/design-mode-demo><b>qiuye-zhou/design-mode-demo</b></a> <img height=16 alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/design-mode-demo?style=flat-square&labelColor=343b41"><p>学习设计模式过程中写的小demo</p></li><li><a href=https://github.com/qiuye-zhou/browser-ext-template><b>qiuye-zhou/browser-ext-template</b></a> <img height=16 alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/browser-ext-template?style=flat-square&labelColor=343b41"><p>浏览器扩展（Chrome Extension MV3）开发模板，基于 Vue 3 + Vite + TypeScript + Pinia + Tailwind CSS</p></li><li><a href=https://github.com/qiuye-zhou/todolist><b>qiuye-zhou/todolist</b></a> <img height=16 alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/todolist?style=flat-square&labelColor=343b41"><p>简约风格的todolist，使用本地存储</p></li><li><a href=https://github.com/qiuye-zhou/qiuye-robot><b>qiuye-zhou/qiuye-robot</b></a> <img height=16 alt=Stars src="https://img.shields.io/github/stars/qiuye-zhou/qiuye-robot?style=flat-square&labelColor=343b41"><p>My QQ robot</p></li></ul>
 
 ------------
 
 **最近Star了**
 
-<ul><li><a href=https://github.com/qiuye-zhou/codetool>qiuye-zhou/codetool</a><p>浏览器扩展，在任意页面通过右键菜单或工具栏图标打开独立工具面板，集中提供开发中常用的编码解码、格式转换和校验能力</p></li><li><a href=https://github.com/qiuye-zhou/AkiDesk>qiuye-zhou/AkiDesk</a><p>一款基于 Qt6 开发的 AI 桌宠应用，支持 AI 实时对话、语音交互、立绘动画展示和对话控制打开应用功能。</p></li><li><a href=https://github.com/qishibo/AnotherRedisDesktopManager>qishibo/AnotherRedisDesktopManager</a><p>🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.</p></li><li><a href=https://github.com/qiuye-zhou/NovelStock>qiuye-zhou/NovelStock</a><p>electron构建的桌面端应用，为小说创作提供数据管理功能，如资源类型及数量、制造蓝图、库存管理等</p></li><li><a href=https://github.com/react/react>react/react</a><p>The library for web and native user interfaces.</p></li></ul>
+<ul><li><a href=https://github.com/qiuye-zhou/browser-ext-template>qiuye-zhou/browser-ext-template</a><p>浏览器扩展（Chrome Extension MV3）开发模板，基于 Vue 3 + Vite + TypeScript + Pinia + Tailwind CSS</p></li><li><a href=https://github.com/qiuye-zhou/codetool>qiuye-zhou/codetool</a><p>浏览器扩展，在任意页面通过右键菜单或工具栏图标打开独立工具面板，集中提供开发中常用的编码解码、格式转换和校验能力</p></li><li><a href=https://github.com/qiuye-zhou/AkiDesk>qiuye-zhou/AkiDesk</a><p>一款基于 Qt6 开发的 AI 桌宠应用，支持 AI 实时对话、语音交互、立绘动画展示和对话控制打开应用功能。</p></li><li><a href=https://github.com/qishibo/AnotherRedisDesktopManager>qishibo/AnotherRedisDesktopManager</a><p>🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.</p></li><li><a href=https://github.com/qiuye-zhou/NovelStock>qiuye-zhou/NovelStock</a><p>electron构建的桌面端应用，为小说创作提供数据管理功能，如资源类型及数量、制造蓝图、库存管理等</p></li></ul>
 
 ------------
 
 <p align=center><strong>如果你热爱生活就不要浪费时间，因为时间组成了生活。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 168 小时</b>自动刷新生成！<br>刷新于：2026/09/16 23:52<br>下一次刷新：2026/09/23 23:52</p>
+<p align=center>此文件 <i>README</i> <b>间隔 168 小时</b>自动刷新生成！<br>刷新于：2026/09/19 11:45<br>下一次刷新：2026/09/26 11:45</p>
