@@ -3,7 +3,7 @@ import { request } from './request'
 import { shuffle } from 'lodash'
 import { Interval_time, timeZone, github } from "../config/config"
 import { GRepo } from '../types'
-import { generateOpenSourceProjectHtml, generateRepoHTML, getcon, mini } from "./util"
+import { generateOpenSourceProjectHtml, generateRecentStarHtml, getcon, mini } from "./util"
 
 export function injection_footer(newCon: string) {
     const now = new Date()
@@ -34,21 +34,15 @@ export function injection_footer(newCon: string) {
 
 export async function injection_recent_star(newCon: string) {
     // 获取Star
-    const star: any[] = await request
+    const star: GRepo[] = await request
     .get('/users/' + github.name + '/starred')
-    .then((data: { data: any }) => data.data)
+    .then((data: { data: GRepo[] }) => data.data)
 
-    const topStar5 = star
-      .slice(0, 5)
-      .reduce((str, cur) => str + generateRepoHTML(cur), '')
+    const topStar5 = star.slice(0, 5)
 
-      return newCon =  newCon.replace(
+    return newCon.replace(
       getcon('RECENT_STAR_INJECT'),
-      mini`
-      <ul>
-      ${topStar5}
-      </ul>
-      `,
+      generateRecentStarHtml(topStar5)
     )
 }
 
