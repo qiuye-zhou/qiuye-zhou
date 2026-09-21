@@ -2,6 +2,15 @@ export const github = {
     name: 'qiuye-zhou',
 }
 
+export const open_source_project_config = {
+    sum: 12,
+    count: 8,
+}
+
+export const injection_recent_star_config = {
+    count: 8
+}
+
 export const githubAPIEndPoint = 'https://api.github.com'
 
 export const timeZone = 'Asia/Shanghai'

@@ -7,10 +7,10 @@ async function main() {
     const template = await readFile('./readme.template.md', { encoding: 'utf-8' })
     let newCon = template
 
-    newCon = (await injection_recent_star(newCon)).toString()
     newCon = (await open_source_project(newCon)).toString()
-    newCon = injection_footer(newCon)
+    newCon = (await injection_recent_star(newCon)).toString()
     newCon = newCon.replace(getcon('MOTTO'), motto)
+    newCon = injection_footer(newCon)
 
     await rm('./README.md', { force: true })
     await writeFile('./README.md', newCon, { encoding: 'utf-8' })

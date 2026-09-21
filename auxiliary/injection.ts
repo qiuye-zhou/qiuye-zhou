@@ -1,7 +1,7 @@
 import dayjs from "dayjs"
 import { request } from './request'
 import { shuffle } from 'lodash'
-import { Interval_time, timeZone, github } from "../config/config"
+import { Interval_time, timeZone, github, open_source_project_config, injection_recent_star_config } from "../config/config"
 import { GRepo } from '../types'
 import { generateOpenSourceProjectHtml, generateRecentStarHtml, getcon, mini } from "./util"
 
@@ -33,32 +33,30 @@ export function injection_footer(newCon: string) {
 }
 
 export async function injection_recent_star(newCon: string) {
-    // 获取Star
     const star: GRepo[] = await request
     .get('/users/' + github.name + '/starred')
     .then((data: { data: GRepo[] }) => data.data)
 
-    const topStar5 = star.slice(0, 5)
+    const topStar = star.slice(0, injection_recent_star_config.count)
 
     return newCon.replace(
       getcon('RECENT_STAR_INJECT'),
-      generateRecentStarHtml(topStar5)
+      generateRecentStarHtml(topStar)
     )
 }
 
 export async function open_source_project(newCon: string) {
-  // 获取 stars 数量前十的项目
   const { data: { items } } = await request.get('/search/repositories', {
     params: {
       q: `user:${github.name}`,
       sort: 'stars',
       order: 'desc',
-      per_page: 10,
+      per_page: open_source_project_config.sum,
     },
   })
 
-  // 随机选择五个并按 stars 数量降序排序
-  const OpenSourceRrojectDetail: GRepo[] = shuffle(items).slice(0, 5)
+  // 随机选择并按 stars 数量降序排序
+  const OpenSourceRrojectDetail: GRepo[] = shuffle(items).slice(0, open_source_project_config.count)
     .sort((a: GRepo, b: GRepo) => b.stargazers_count - a.stargazers_count)
 
   return newCon.replace(

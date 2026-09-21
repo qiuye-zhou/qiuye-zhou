@@ -74,7 +74,7 @@ export interface GRepo {
     permissions: Permissions
     template_repository: null
   }
-  
+
   export interface Owner {
     login: string
     id: number
@@ -95,7 +95,7 @@ export interface GRepo {
     type: string
     site_admin: boolean
   }
-  
+
   export interface Permissions {
     admin: boolean
     push: boolean
