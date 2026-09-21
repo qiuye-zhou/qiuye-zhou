@@ -61,8 +61,11 @@
 
 - [![Redirector](https://img.shields.io/github/stars/qiuye-zhou/Redirector?style=social&label=Redirector)](https://github.com/qiuye-zhou/Redirector): 浏览器请求重定向调式插件 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 - [![qiuye-Handwriting](https://img.shields.io/github/stars/qiuye-zhou/qiuye-Handwriting?style=social&label=qiuye-Handwriting)](https://github.com/qiuye-zhou/qiuye-Handwriting): 手写实现一些经典的代码、内置函数、常用的工具函数 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- [![qiuye-codebase](https://img.shields.io/github/stars/qiuye-zhou/qiuye-codebase?style=social&label=qiuye-codebase)](https://github.com/qiuye-zhou/qiuye-codebase): 初学写的一些项目归档 ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 - [![design-mode-demo](https://img.shields.io/github/stars/qiuye-zhou/design-mode-demo?style=social&label=design-mode-demo)](https://github.com/qiuye-zhou/design-mode-demo): 学习设计模式过程中写的小demo ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 - [![todolist](https://img.shields.io/github/stars/qiuye-zhou/todolist?style=social&label=todolist)](https://github.com/qiuye-zhou/todolist): 简约风格的todolist，使用本地存储 ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+- [![browser-ext-template](https://img.shields.io/github/stars/qiuye-zhou/browser-ext-template?style=social&label=browser-ext-template)](https://github.com/qiuye-zhou/browser-ext-template): 浏览器扩展（Chrome Extension MV3）开发模板，基于 Vue 3 + Vite + TypeScript + Pinia + Tailwind CSS ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+- [![qy-vscode-plugin](https://img.shields.io/github/stars/qiuye-zhou/qy-vscode-plugin?style=social&label=qy-vscode-plugin)](https://github.com/qiuye-zhou/qy-vscode-plugin): vscode辅助插件 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 - [![qiuye-robot](https://img.shields.io/github/stars/qiuye-zhou/qiuye-robot?style=social&label=qiuye-robot)](https://github.com/qiuye-zhou/qiuye-robot): My QQ robot ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ------------
@@ -74,8 +77,11 @@
 - [![qiuye-zhou/AkiDesk](https://img.shields.io/github/stars/qiuye-zhou/AkiDesk?style=social&label=qiuye-zhou%2FAkiDesk)](https://github.com/qiuye-zhou/AkiDesk): 一款基于 Qt6 开发的 AI 桌宠应用，支持 AI 实时对话、语音交互、立绘动画展示和对话控制打开应用功能。 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 - [![qishibo/AnotherRedisDesktopManager](https://img.shields.io/github/stars/qishibo/AnotherRedisDesktopManager?style=social&label=qishibo%2FAnotherRedisDesktopManager)](https://github.com/qishibo/AnotherRedisDesktopManager): 🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac. ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 - [![qiuye-zhou/NovelStock](https://img.shields.io/github/stars/qiuye-zhou/NovelStock?style=social&label=qiuye-zhou%2FNovelStock)](https://github.com/qiuye-zhou/NovelStock): electron构建的桌面端应用，为小说创作提供数据管理功能，如资源类型及数量、制造蓝图、库存管理等 ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+- [![react/react](https://img.shields.io/github/stars/react/react?style=social&label=react%2Freact)](https://github.com/react/react): The library for web and native user interfaces. ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- [![qiuye-zhou/DayRecord](https://img.shields.io/github/stars/qiuye-zhou/DayRecord?style=social&label=qiuye-zhou%2FDayRecord)](https://github.com/qiuye-zhou/DayRecord) ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+- [![dcloudio/uni-app](https://img.shields.io/github/stars/dcloudio/uni-app?style=social&label=dcloudio%2Funi-app)](https://github.com/dcloudio/uni-app): A cross-platform framework using Vue.js ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ------------
 
 <p align=center><strong>如果你热爱生活就不要浪费时间，因为时间组成了生活。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 168 小时</b>自动刷新生成！<br>刷新于：2026/09/21 11:33<br>下一次刷新：2026/09/28 11:33</p>
+<p align=center>此文件 <i>README</i> <b>间隔 168 小时</b>自动刷新生成！<br>刷新于：2026/09/21 14:59<br>下一次刷新：2026/09/28 14:59</p>
