@@ -59,10 +59,10 @@
 
 **写的一些小东西**
 
-- [![qiuye-codebase](https://img.shields.io/github/stars/qiuye-zhou/qiuye-codebase?style=social&label=qiuye-codebase)](https://github.com/qiuye-zhou/qiuye-codebase): 初学写的一些项目归档 ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+- [![Redirector](https://img.shields.io/github/stars/qiuye-zhou/Redirector?style=social&label=Redirector)](https://github.com/qiuye-zhou/Redirector): 浏览器请求重定向调式插件 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 - [![qiuye-Handwriting](https://img.shields.io/github/stars/qiuye-zhou/qiuye-Handwriting?style=social&label=qiuye-Handwriting)](https://github.com/qiuye-zhou/qiuye-Handwriting): 手写实现一些经典的代码、内置函数、常用的工具函数 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 - [![design-mode-demo](https://img.shields.io/github/stars/qiuye-zhou/design-mode-demo?style=social&label=design-mode-demo)](https://github.com/qiuye-zhou/design-mode-demo): 学习设计模式过程中写的小demo ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-- [![CampusNewsServer](https://img.shields.io/github/stars/qiuye-zhou/CampusNewsServer?style=social&label=CampusNewsServer)](https://github.com/qiuye-zhou/CampusNewsServer): Campus News Server ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+- [![todolist](https://img.shields.io/github/stars/qiuye-zhou/todolist?style=social&label=todolist)](https://github.com/qiuye-zhou/todolist): 简约风格的todolist，使用本地存储 ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 - [![qiuye-robot](https://img.shields.io/github/stars/qiuye-zhou/qiuye-robot?style=social&label=qiuye-robot)](https://github.com/qiuye-zhou/qiuye-robot): My QQ robot ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ------------
@@ -78,4 +78,4 @@
 ------------
 
 <p align=center><strong>如果你热爱生活就不要浪费时间，因为时间组成了生活。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 168 小时</b>自动刷新生成！<br>刷新于：2026/09/20 10:29<br>下一次刷新：2026/09/27 10:29</p>
+<p align=center>此文件 <i>README</i> <b>间隔 168 小时</b>自动刷新生成！<br>刷新于：2026/09/21 11:33<br>下一次刷新：2026/09/28 11:33</p>
