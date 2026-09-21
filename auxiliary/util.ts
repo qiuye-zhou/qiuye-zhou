@@ -74,7 +74,7 @@ function getLanguageBadge(language: string | null): string {
   const badgeUrl =
     languageBadgeMap[language] ||
     `https://img.shields.io/badge/-${encodeURIComponent(language)}-grey?style=flat-square`
-  return `![${language}](${badgeUrl})`
+  return `<img align="absmiddle" alt="${language}" src="${badgeUrl}"/>`
 }
 
 export function generateOpenSourceProjectHtml(list: GRepo[]) {
@@ -83,7 +83,7 @@ export function generateOpenSourceProjectHtml(list: GRepo[]) {
       const starsBadge = `https://img.shields.io/github/stars/${cur.full_name}?style=social&label=${encodeURIComponent(cur.name)}`
       const langBadge = getLanguageBadge(cur.language)
       const desc = cur.description ? `: ${cur.description.trim()}` : ''
-      return `- [![${cur.name}](${starsBadge})](${cur.html_url})${desc} ${langBadge}`.trim()
+      return `- <a href="${cur.html_url}" target="_blank"><img align="absmiddle" alt="${cur.name}" src="${starsBadge}"/></a>${desc} ${langBadge}`.trim()
     })
     .join('\n')
 
@@ -96,7 +96,7 @@ export function generateRecentStarHtml(list: GRepo[]) {
       const starsBadge = `https://img.shields.io/github/stars/${cur.full_name}?style=social&label=${encodeURIComponent(cur.full_name)}`
       const langBadge = getLanguageBadge(cur.language)
       const desc = cur.description ? `: ${cur.description.trim()}` : ''
-      return `- [![${cur.full_name}](${starsBadge})](${cur.html_url})${desc} ${langBadge}`.trim()
+      return `- <a href="${cur.html_url}" target="_blank"><img align="absmiddle" alt="${cur.full_name}" src="${starsBadge}"/></a>${desc} ${langBadge}`.trim()
     })
     .join('\n')
 
