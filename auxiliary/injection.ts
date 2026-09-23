@@ -41,7 +41,7 @@ export async function injection_recent_star(newCon: string) {
 
     return newCon.replace(
       getcon('RECENT_STAR_INJECT'),
-      generateRecentStarHtml(topStar)
+      await generateRecentStarHtml(topStar)
     )
 }
 
@@ -61,6 +61,6 @@ export async function open_source_project(newCon: string) {
 
   return newCon.replace(
     getcon('OPEN_SOURCE_PROJECT'),
-    generateOpenSourceProjectHtml(OpenSourceRrojectDetail)
+    await generateOpenSourceProjectHtml(OpenSourceRrojectDetail)
   )
 }

@@ -1,5 +1,6 @@
 import { minify } from "html-minifier";
 import { COMMNETS } from '../config/constants'
+import { request } from './request'
 import { GHItem, GRepo } from "../types";
 
 //获取文档对应需要替换的位置
@@ -69,36 +70,48 @@ const languageBadgeMap: Record<string, string> = {
   Ruby: 'https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white',
 }
 
-function getLanguageBadge(language: string | null): string {
-  if (!language) return ''
+function buildLanguageBadge(language: string): string {
   const badgeUrl =
     languageBadgeMap[language] ||
     `https://img.shields.io/badge/-${encodeURIComponent(language)}-grey?style=flat-square`
   return `<img align="absmiddle" alt="${language}" src="${badgeUrl}"/>`
 }
 
-export function generateOpenSourceProjectHtml(list: GRepo[]) {
-  const items = list
-    .map((cur) => {
+async function getLanguageBadges(cur: GRepo): Promise<string> {
+  const primary = cur.language
+  try {
+    const { data } = await request.get<Record<string, number>>(cur.languages_url)
+    const top2 = Object.keys(data || {})
+      .sort((a, b) => (data[b] || 0) - (data[a] || 0))
+      .slice(0, 2)
+    if (top2.length === 0 && primary) return buildLanguageBadge(primary)
+    if (top2.length === 1 && primary && top2[0] !== primary) top2.push(primary)
+    return top2.map(buildLanguageBadge).join(' ')
+  } catch {
+    return primary ? buildLanguageBadge(primary) : ''
+  }
+}
+
+export async function generateOpenSourceProjectHtml(list: GRepo[]) {
+  const items = await Promise.all(
+    list.map(async (cur) => {
       const starsBadge = `https://img.shields.io/github/stars/${cur.full_name}?style=social&label=${encodeURIComponent(cur.name)}`
-      const langBadge = getLanguageBadge(cur.language)
+      const langBadge = await getLanguageBadges(cur)
       const desc = cur.description ? `: ${cur.description.trim()}` : ''
       return `- <a href="${cur.html_url}" target="_blank"><img align="absmiddle" alt="${cur.name}" src="${starsBadge}"/></a>${desc} ${langBadge}`.trim()
     })
-    .join('\n')
-
-  return items
+  )
+  return items.join('\n')
 }
 
-export function generateRecentStarHtml(list: GRepo[]) {
-  const items = list
-    .map((cur) => {
+export async function generateRecentStarHtml(list: GRepo[]) {
+  const items = await Promise.all(
+    list.map(async (cur) => {
       const starsBadge = `https://img.shields.io/github/stars/${cur.full_name}?style=social&label=${encodeURIComponent(cur.full_name)}`
-      const langBadge = getLanguageBadge(cur.language)
+      const langBadge = await getLanguageBadges(cur)
       const desc = cur.description ? `: ${cur.description.trim()}` : ''
       return `- <a href="${cur.html_url}" target="_blank"><img align="absmiddle" alt="${cur.full_name}" src="${starsBadge}"/></a>${desc} ${langBadge}`.trim()
     })
-    .join('\n')
-
-  return items
+  )
+  return items.join('\n')
 }
