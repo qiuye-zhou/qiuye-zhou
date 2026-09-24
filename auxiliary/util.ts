@@ -19,34 +19,6 @@ export function mini(html: TemplateStringsArray, ...args: any[]) {
     })
 }
 
-//生成 `以往学习过程写的一些简单东西` 结构
-export function generateHTML(list: GRepo[]) {
-  const tbody = list.reduce((str, cur) =>str +` <tr>
-  <td><a href="${cur.html_url}" target="_blank"><b>
-  ${cur.full_name}</b></a> ${
-        cur.homepage ? `<a href="${cur.homepage}" target="_blank">🔗</a>` : ''
-      }</td>
-  <td><img alt="Stars" src="https://img.shields.io/github/stars/${
-    cur.full_name
-  }?style=flat-square&labelColor=343b41"/></td>
-  <td>${new Date(cur.created_at).toLocaleDateString()}</td>
-  <td>${new Date(cur.pushed_at).toLocaleDateString()}</td>
-  </tr>`,``,)
-  return mini`<table>
-  <thead align="center">
-  <tr border: none;>
-    <td><b>🎁 Projects</b></td>
-    <td><b>⭐ Stars</b></td>
-    <td><b>🕐 Create At</b></td>
-    <td><b>📅 Last Active At</b></td>
-  </tr>
-  </thead>
-  <tbody>
-  ${tbody}
-  </tbody>
-  </table>`
-}
-
 const languageBadgeMap: Record<string, string> = {
   TypeScript: 'https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white',
   JavaScript: 'https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black',
