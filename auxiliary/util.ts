@@ -1,6 +1,6 @@
 import { minify } from "html-minifier";
 import { COMMNETS } from '../config/constants'
-import { statsConfig } from '../config/config'
+import { statsConfig, skillsConfig } from '../config/config'
 import { request } from './request'
 import { GHItem, GRepo } from "../types";
 
@@ -75,6 +75,39 @@ export async function generateOpenSourceProjectHtml(list: GRepo[]) {
     })
   )
   return items.join('\n')
+}
+
+// 生成技能图标区域 HTML（按 columns 列自动排列，最后一行不足时 colspan 填满）
+export function generateSkillsHtml() {
+  const { columns, iconHeight, baseUrl, groups } = skillsConfig
+  const colWidth = (100 / columns).toFixed(2)
+
+  const buildCell = (title: string, icons: string[], colspan?: number) => {
+    const width = colspan ? 100 : parseFloat(colWidth)
+    const colspanAttr = colspan ? ` colspan="${colspan}"` : ''
+    const imgs = icons.map((i) => `<img height="${iconHeight}" src="${baseUrl}?i=${i}" alt="${i}"/>`).join('\n      ')
+    return `<td width="${width}%"${colspanAttr} valign="top">\n      <h3 align="center">${title}</h3>\n      ${imgs}\n    </td>`
+  }
+
+  const rows: string[] = []
+  for (let i = 0; i < groups.length; i += columns) {
+    const slice = groups.slice(i, i + columns)
+    const isLastRow = i + columns >= groups.length
+    let cells: string[]
+    if (isLastRow && slice.length < columns) {
+      // 最后一行不足 columns 个，最后一个 td 用 colspan 填满
+      cells = slice.map((g, idx) => {
+        const isLast = idx === slice.length - 1
+        const span = columns - slice.length + 1
+        return isLast ? buildCell(g.title, g.icons, span) : buildCell(g.title, g.icons)
+      })
+    } else {
+      cells = slice.map((g) => buildCell(g.title, g.icons))
+    }
+    rows.push(`  <tr>\n${cells.join('\n')}\n  </tr>`)
+  }
+
+  return `<table>\n${rows.join('\n')}\n</table>`
 }
 
 // 生成 GitHub Stats / LeetCode 卡片区域 HTML

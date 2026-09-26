@@ -49,3 +49,40 @@ export const statsConfig = {
     site: 'cn',
   },
 }
+
+// 技能图标配置
+export const skillsConfig = {
+  columns: 3,
+  iconHeight: 48,
+  baseUrl: 'https://skillicons.dev/icons',
+  groups: [
+    {
+      title: 'Frontend Core',
+      icons: ['html', 'css', 'js', 'ts', 'vue', 'react', 'angular', 'nextjs', 'nuxtjs', 'pinia', 'jest'],
+    },
+    {
+      title: 'Backend Core',
+      icons: ['nestjs', 'express', 'nodejs', 'java', 'spring'],
+    },
+    {
+      title: 'Engineering & Build',
+      icons: ['vite', 'webpack', 'rollupjs', 'pnpm', 'npm', 'electron', 'flutter', 'docker', 'nginx', 'githubactions'],
+    },
+    {
+      title: 'UI & Styling',
+      icons: ['tailwind', 'windicss', 'sass', 'bootstrap', 'jquery'],
+    },
+    {
+      title: 'Database & Middleware',
+      icons: ['mysql', 'mongodb', 'redis', 'sqlite'],
+    },
+    {
+      title: 'System Languages',
+      icons: ['cpp', 'c', 'python', 'dart', 'qt'],
+    },
+    {
+      title: 'Dev Environment & Tools',
+      icons: ['vscode', 'visualstudio', 'idea', 'git', 'github', 'gitlab', 'stackoverflow', 'md', 'postman', 'windows', 'linux', 'ubuntu'],
+    },
+  ],
+}

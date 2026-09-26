@@ -1,13 +1,14 @@
 import { readFile, rm, writeFile } from "fs/promises";
 import { motto } from "./config/config";
 import { injection_recent_star, open_source_project, injection_footer } from './auxiliary/injection'
-import { getcon, generateStatsHtml } from "./auxiliary/util";
+import { getcon, generateStatsHtml, generateSkillsHtml } from "./auxiliary/util";
 
 async function main() {
     const template = await readFile('./readme.template.md', { encoding: 'utf-8' })
     let newCon = template
 
     newCon = newCon.replace(getcon('STATS'), generateStatsHtml())
+    newCon = newCon.replace(getcon('SKILLS'), generateSkillsHtml())
     newCon = (await open_source_project(newCon)).toString()
     newCon = (await injection_recent_star(newCon)).toString()
     newCon = newCon.replace(getcon('MOTTO'), motto)
