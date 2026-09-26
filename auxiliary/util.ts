@@ -1,5 +1,6 @@
 import { minify } from "html-minifier";
 import { COMMNETS } from '../config/constants'
+import { statsConfig } from '../config/config'
 import { request } from './request'
 import { GHItem, GRepo } from "../types";
 
@@ -74,6 +75,30 @@ export async function generateOpenSourceProjectHtml(list: GRepo[]) {
     })
   )
   return items.join('\n')
+}
+
+// 生成 GitHub Stats / LeetCode 卡片区域 HTML
+export function generateStatsHtml() {
+  const { github, screenshot, leetcode } = statsConfig
+  const statsUrl = `${github.stats.baseUrl}?username=${github.username}&show_icons=${github.stats.showIcons}`
+  const topLangsUrl = `${github.topLangs.baseUrl}/?username=${github.username}&count_private=${github.topLangs.countPrivate}&show_icons=${github.topLangs.showIcons}&layout=${github.topLangs.layout}`
+  const leetcodeUrl = `${leetcode.baseUrl}/${leetcode.user}?theme=${leetcode.theme}&font=${leetcode.font}&site=${leetcode.site}`
+
+  return mini`
+<table>
+  <tr>
+    <td align="center">
+      <img width="${github.stats.width}px" alt="GitHub Stats" src="${statsUrl}"/>
+      <img width="${github.topLangs.width}px" alt="Top Languages" src="${topLangsUrl}"/>
+    </td>
+    <td align="center">
+      <img width="${screenshot.width}px" alt="Screenshot" src="${screenshot.src}"/>
+    </td>
+  </tr>
+</table>
+
+<img width="${leetcode.width}px" alt="LeetCode Stats" src="${leetcodeUrl}"/>
+  `
 }
 
 export async function generateRecentStarHtml(list: GRepo[]) {
