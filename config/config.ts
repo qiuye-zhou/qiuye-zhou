@@ -53,7 +53,7 @@ export const statsConfig = {
 // 技能图标配置
 export const skillsConfig = {
   columns: 3,
-  iconHeight: 48,
+  iconHeight: 36,
   baseUrl: 'https://skillicons.dev/icons',
   groups: [
     {
