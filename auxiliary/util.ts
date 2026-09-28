@@ -85,7 +85,7 @@ export function generateSkillsHtml() {
   const buildCell = (title: string, icons: string[], colspan?: number) => {
     const width = colspan ? 100 : parseFloat(colWidth)
     const colspanAttr = colspan ? ` colspan="${colspan}"` : ''
-    const imgs = icons.map((i) => `<img height="${iconHeight}" src="${baseUrl}?i=${i}" alt="${i}"/>`).join('\n      ')
+    const imgs = icons.map((i) => `<img height="${iconHeight}" src="${baseUrl}?i=${i}" alt="${i}" title="${i}"/>`).join('\n      ')
     return `<td width="${width}%"${colspanAttr} valign="top">\n      <h3 align="center">${title}</h3>\n      ${imgs}\n    </td>`
   }
 
