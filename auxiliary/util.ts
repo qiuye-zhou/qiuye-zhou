@@ -115,7 +115,7 @@ export function generateStatsHtml() {
   const { github, screenshot, leetcode } = statsConfig
   const statsUrl = `${github.stats.baseUrl}?username=${github.username}&show_icons=${github.stats.showIcons}`
   const topLangsUrl = `${github.topLangs.baseUrl}/?username=${github.username}&count_private=${github.topLangs.countPrivate}&show_icons=${github.topLangs.showIcons}&layout=${github.topLangs.layout}`
-  const leetcodeUrl = `${leetcode.baseUrl}/${leetcode.user}?theme=${leetcode.theme}&font=${leetcode.font}&site=${leetcode.site}`
+  // const leetcodeUrl = `${leetcode.baseUrl}/${leetcode.user}?theme=${leetcode.theme}&font=${leetcode.font}&site=${leetcode.site}`
 
   return mini`
 <table>
@@ -129,9 +129,9 @@ export function generateStatsHtml() {
     </td>
   </tr>
 </table>
-
-<img width="${leetcode.width}px" alt="LeetCode Stats" src="${leetcodeUrl}"/>
-  `
+`
+// <img width="${leetcode.width}px" alt="LeetCode Stats" src="${leetcodeUrl}"/>
+//   `
 }
 
 export async function generateRecentStarHtml(list: GRepo[]) {
